@@ -16,6 +16,15 @@
 {{- $scratch.Add "meta" (slice .) }}
 {{- end }}
 
-{{- with ($scratch.Get "meta") }}
-{{- delimit . "&nbsp;&middot;&nbsp;" -}}
+{{- with ($scratch.Get "meta") -}}
+{{- $safeDelimiter := safeHTML "&nbsp;&middot;&nbsp;" -}}
+{{- $safeMeta := "" -}}
+{{- range $index, $element := . -}}
+    {{- if gt $index 0 -}}
+        {{- $safeMeta = print $safeMeta $safeDelimiter $element -}}
+    {{- else -}}
+        {{- $safeMeta = $element -}}
+    {{- end -}}
+{{- end -}}
+{{- $safeMeta | safeHTML -}}
 {{- end -}}

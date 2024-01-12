@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Music Industry on Luca Rossi</title>
+    <link>https://pascalmichaillat.org/hugo-website/tags/music-industry/</link>
+    <description>Recent content in Music Industry on Luca Rossi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/music-industry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
+      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
+      <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
+    </item>
+    
+  </channel>
+</rss>

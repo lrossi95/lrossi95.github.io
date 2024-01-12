@@ -1,43 +1,43 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
-cover:
-    image: "paper1.png"
-    alt: "Image caption"
-    relative: false
-editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+title: "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption" 
+date: 2024-01-10
+tags: ["Gender Equality", "Music Industry", "Social Movements", "Political Consumerism"]
+author: ["Luca Rossi","Michelangelo Rossi"]
+description: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
+summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
+# cover:
+#     image: "paper1.jpg"
+#     alt: "Image caption"
+#     relative: false
+# editPost:
+#     URL: "https://doi.org/10.1257/aer.102.4.1721"
+#     Text: "Journal Name"
 
 ---
 
 ---
 
-##### Download
+<!-- ##### Download
 
 + [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify. With a difference-in-differences approach, we analyze the streaming data of the top 200 songs, revealing a significant increase of at least 13\% in the streams of songs by female artists post-appointment. This sustained shift in consumer behavior suggests a reaction to heightened media attention on gender issues. Our findings are robust against confounding factors such as seasonal trends and Spotify's promotional activities. Further, the study delves into the role of sexist lyrics, finding a more pronounced effect in songs with sexist terms. This research contributes to understanding political consumerism, showing how significant socio-political events can influence consumer preferences in seemingly unrelated sectors like the music industry. It underscores the importance of adaptive strategies in digital marketplaces in response to external socio-political changes, and highlights the broader societal implications of major events on consumer behavior and attitudes, particularly concerning gender imbalances.
 
----
+<!-- ---
 
 ##### Figure X: Figure caption
 
 ![](paper1.png)
 
----
+--- -->
 
-##### Citation
+<!-- ##### Citation
 
 Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
@@ -60,4 +60,4 @@ year = {Year}}
 + [Presentation slides](presentation1.pdf)
 + [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
 + [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
-
+ -->

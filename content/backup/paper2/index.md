@@ -1,5 +1,5 @@
----
-title: "Paper Title 2" 
+<!-- ---
+title: "Paper Title" 
 date: 2015-12-01
 tags: ["keyword 1","keyword 2","keyword 4"]
 author: ["Author Name 1", "Author Name 2"]
@@ -58,4 +58,4 @@ year = {Year}}
 ##### Related material
 
 + [Presentation slides](presentation2.pdf)
-
+ -->

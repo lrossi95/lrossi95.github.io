@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prof. Name</title>
+    <title>Luca Rossi</title>
     <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Prof. Name</description>
+    <description>Recent content on Luca Rossi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
+      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
+      <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
+    </item>
+    
+    <item>
       <title>Course Title 2</title>
       <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
@@ -35,21 +44,12 @@
     </item>
     
     <item>
-      <title>Paper Title 2</title>
+      <title></title>
       <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
+      <description></description>
     </item>
     
     
@@ -59,7 +59,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
-      <description>Mailing and office addresses at the University of Place.</description>
+      <description>Mailing and office addresses at Télécom Paris.</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Prof. Name</title>
+    <title>Tags on Luca Rossi</title>
     <link>https://pascalmichaillat.org/hugo-website/tags/</link>
-    <description>Recent content in Tags on Prof. Name</description>
+    <description>Recent content in Tags on Luca Rossi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -67,6 +67,42 @@
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender Equality</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/gender-equality/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/gender-equality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Industry</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/music-industry/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/music-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Consumerism</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/political-consumerism/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/political-consumerism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Movements</title>
+      <link>https://pascalmichaillat.org/hugo-website/tags/social-movements/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/hugo-website/tags/social-movements/</guid>
       <description></description>
     </item>
     

@@ -1,33 +1,32 @@
 ---
-title: "Course Title 1"
-date: 2022-03-10
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
-description: "This graduate course presents things." 
-summary: "This graduate course presents various methods and results." 
+title: "Data analysis in economics 1: Collection and Visualization"
+date: 2024-01-12
+tags: ["Data Collection","Scraping"]
+author: ["Louis Pape","Luca Rossi"]
+description: "Graduate course on data collection and visualization" 
+summary: "This graduate course teaches students various methods to collect and visualize data" 
 cover:
-    image: "course1.png"
+    # image: "course1.png"
     alt: "Figure caption"
     relative: false
-editPost:
-    URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
-    Text: "YouTube playlist"
+# editPost:
+#     URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
+#     Text: "YouTube playlist"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Introduction and Research Design
 
-This course covers research topics related to things. It tries to answer several questions: 
+This course introduces graduate students in Engineering to:
 
-+ Why this? 
-+ Why that? 
-+ What about this? 
-+ What about that?
+1) Find a simple research question,
+2) Collect data to answer it using web-scraping in Python,
+3) Clean,  visualize, analyze and present your findings.
 
 
----
+<!-- ---
 
 ## Part 1
 
@@ -90,4 +89,4 @@ This section introduces other things.
 This section turns to other things. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
