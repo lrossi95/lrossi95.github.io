@@ -1,4 +1,4 @@
-baseURL: "https://lrossi95.github.io/hugo-website/" 
+baseURL: "https://lrossi95.github.io" 
 title: Luca Rossi
 paginate: 20
 theme: PaperMod
