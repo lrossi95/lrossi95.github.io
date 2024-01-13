@@ -426,9 +426,9 @@ img.in-text {
 }
 
 a[href^="#fn:"], a[href^="#fnref:"] {
-     box-shadow: 0 0px 0 var(--darkpurple);
+     box-shadow: 0 0px 0 var(--darkred);
 }
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
-    color: var(--darkpurple);
+    color: var(--darkred);
 }
