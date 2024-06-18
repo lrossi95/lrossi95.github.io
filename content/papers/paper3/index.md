@@ -9,6 +9,4 @@ summary: "This article explores pricing dynamics and consumer behavior in the se
 ---
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Presentation](content/papers/paper3/slides_second_hand.pdf)
