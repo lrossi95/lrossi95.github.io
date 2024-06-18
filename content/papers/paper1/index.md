@@ -17,11 +17,9 @@ summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appo
 
 ---
 
-<!-- ##### Download
+##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing) -->
++ [Paper](https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption)
 
 ---
 
