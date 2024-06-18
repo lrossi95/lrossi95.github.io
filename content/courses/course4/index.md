@@ -1,15 +1,15 @@
 ---
 title: "Platform Economics"
 date: 2024-05-01
-tags: ["Platforms","Economics","",""]
+tags: ["Platforms","Economics","Business models","Pricing"]
 author: ["Luca Rossi"]
-description: "Graduate course on applied econometrics" 
-summary: "In this course we study the economics of platforms as a key ingredient of the digital economy. In the first part of the course, we study the concept of network effects. We define platforms and build a typology. We discuss their usefulness and different business models. We learn about pricing strategies of monopolist and competing platforms, discuss how a platform can grow and explore non-pricing strategies. In the second part, we apply this knowledge to specific types of platforms (search engines, P2P, etc.) and discuss their related properties. Finally, we discuss the ex ante or ex post regulation of these markets." 
+description: "Platofrms econometrics" 
+summary: "This course examines platform economics, integral to the digital economy. It begins with an exploration of network effects, definitions of platforms, and their typologies, followed by an analysis of their business, entry and growth mechanisms, pricing strategies and non-pricing strategies are also covered. The latter part of the course applies these concepts to specific platform types like search engines and peer-to-peer networks, exploring their unique properties. Discussions also extend to the regulation of these markets, either ex ante or ex post."
 ---
 
-# Summary
+## Summary
 
-In this course we study the economics of platforms as a key ingredient of the digital economy. In the first part of the course, we study the concept of network effects. We define platforms and build a typology. We discuss their usefulness and different business models. We learn about pricing strategies of monopolist and competing platforms, discuss how a platform can grow and explore non-pricing strategies. In the second part, we apply this knowledge to specific types of platforms (search engines, P2P, etc.) and discuss their related properties. Finally, we discuss the ex ante or ex post regulation of these markets.
+This course examines platform economics, integral to the digital economy. It begins with an exploration of network effects, definitions of platforms, and their typologies, followed by an analysis of their business, entry and growth mechanisms, pricing strategies and non-pricing strategies are also covered. The latter part of the course applies these concepts to specific platform types like search engines and peer-to-peer networks, exploring their unique properties. Discussions also extend to the regulation of these markets, either ex ante or ex post.
 
 ## Detailed Course Outline
 

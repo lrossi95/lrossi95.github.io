@@ -7,7 +7,7 @@ description: "Graduate course on applied econometrics"
 summary: "This graduate-level course is designed to equip students, particularly those in engineering disciplines, with robust analytical skills focused on econometric methods and data analysis. The course covers practical applications of econometrics, empowering students to rigorously analyze, interpret, and solve real-world policy and economic problems using statistical techniques" 
 ---
 
-# Summary
+## Summary
 
 In this course, students learn how to conduct exploratory data analysis to summarize and visualize complex datasets, frame and articulate economic and policy-related problems clearly, and critically assess the impact of policies using econometric techniques. By the end of the course, students will be adept at applying these skills to make informed decisions and contribute effectively to policy evaluation and economic strategy development.
 
