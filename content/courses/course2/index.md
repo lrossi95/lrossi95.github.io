@@ -17,18 +17,18 @@ In this course, students learn how to conduct exploratory data analysis to summa
 
 The course begins by introducing graduate students in engineering to the fundamental concepts of econometrics, emphasizing practical applications in their field. It aims to develop competency in the following key areas:
 
-	1.	Exploratory Data Analysis (EDA):
-	    Techniques for summarizing main characteristics of data, often with visual methods.
-	    Understanding data distributions, variability, and presence of outliers.
-	    Preparing data for econometric modeling through cleaning and transformation processes.
-	2.	Econometric Analysis:
-	    Application of statistical and econometric methods to evaluate the effectiveness of policies.
-	    Introduction to regression models, hypothesis testing, and causal inference.
-	    Using econometric software (STATA) as well as programming languages (R and Python) to perform analyses and interpret the outputs.
-	3.	Presentation of Findings:
-	    Effective communication of econometric findings to both technical and non-technical audiences.
-	    Development of visualizations to represent data and econometric results clearly.
-	    Crafting comprehensive reports and presentations that summarize research methodology, analysis, and recommendations.
+1.	Exploratory Data Analysis (EDA):
+    Techniques for summarizing main characteristics of data, often with visual methods.
+    Understanding data distributions, variability, and presence of outliers.
+    Preparing data for econometric modeling through cleaning and transformation processes.
+2.	Econometric Analysis:
+    Application of statistical and econometric methods to evaluate the effectiveness of policies.
+    Introduction to regression models, hypothesis testing, and causal inference.
+    Using econometric software (STATA) as well as programming languages (R and Python) to perform analyses and interpret the outputs.
+3.	Presentation of Findings:
+    Effective communication of econometric findings to both technical and non-technical audiences.
+    Development of visualizations to represent data and econometric results clearly.
+    Crafting comprehensive reports and presentations that summarize research methodology, analysis, and recommendations.
 
 ## Course Learning Objectives
 
@@ -41,17 +41,20 @@ The course begins by introducing graduate students in engineering to the fundame
 
 The course employs a dynamic blend of teaching methodologies to ensure a comprehensive learning experience that bridges theoretical knowledge with practical application. This approach includes:
 
-	1.	Lectures: Foundational concepts and advanced econometric techniques are taught through interactive lectures. These sessions cover topics such as data exploration, regression analysis, and the interpretation of econometric results, providing the theoretical backbone for applied learning.
-	2.	Hands-On Labs: Students participate in computer labs where they use econometric software to analyze datasets. These labs focus on practical skills, such as data cleaning, model selection, and diagnostic testing, which are essential for conducting robust econometric analysis.
-	3.	Project Work:
-	    Throughout the course, students engage with real-world datasets to practice their econometric skills. A key project involves a synthetic dataset on traffic where a specific policy has been implemented during the observation period.
-	    Project Scenario: The dataset includes traffic metrics such as accident rates, pollution levels, and congestion statistics before and after the policy implementation. Students are tasked to first detect the nature of the policy enacted—such as the introduction of speed limits, congestion charges, or emissions regulations—through exploratory data analysis.
-	    Econometric Analysis: Once the policy is identified, students apply econometric models to evaluate the effects of this policy on traffic metrics. This involves hypothesis testing to ascertain the impact on accident frequencies, air quality improvements, and traffic flow enhancements.
-	    Interpretation and Reporting: Students interpret their analytical results to determine the efficacy of the policy. They must consider external factors that could influence their results, such as seasonal variations or concurrent infrastructure projects.
-	4.	Assessments:
-	    The course includes regular problem sets that challenge students to apply lecture material to new problems. These are designed to reinforce learning and prepare students for complex analyses in their projects.
-	    Examinations are held to assess understanding and the ability to apply econometric methods independently.
-	    A capstone project culminates the course, requiring students to conduct a comprehensive econometric analysis on the traffic dataset. This project spans from data gathering and method selection to the final presentation of findings in a detailed report.
+1.	Lectures: Foundational concepts and advanced econometric techniques are taught through interactive lectures. These sessions cover topics such as data exploration, regression analysis, and the interpretation of econometric results, providing the theoretical backbone for applied learning.
+
+2.	Hands-On Labs: Students participate in computer labs where they use econometric software to analyze datasets. These labs focus on practical skills, such as data cleaning, model selection, and diagnostic testing, which are essential for conducting robust econometric analysis.
+
+3.	Project Work:
+    Throughout the course, students engage with real-world datasets to practice their econometric skills. A key project involves a synthetic dataset on traffic where a specific policy has been implemented during the observation period.
+    Project Scenario: The dataset includes traffic metrics such as accident rates, pollution levels, and congestion statistics before and after the policy implementation. Students are tasked to first detect the nature of the policy enacted—such as the introduction of speed limits, congestion charges, or emissions regulations—through exploratory data analysis.
+    Econometric Analysis: Once the policy is identified, students apply econometric models to evaluate the effects of this policy on traffic metrics. This involves hypothesis testing to ascertain the impact on accident frequencies, air quality improvements, and traffic flow enhancements.
+    Interpretation and Reporting: Students interpret their analytical results to determine the efficacy of the policy. They must consider external factors that could influence their results, such as seasonal variations or concurrent infrastructure projects.
+
+4.	Assessments:
+    The course includes regular problem sets that challenge students to apply lecture material to new problems. These are designed to reinforce learning and prepare students for complex analyses in their projects.
+    Examinations are held to assess understanding and the ability to apply econometric methods independently.
+    A capstone project culminates the course, requiring students to conduct a comprehensive econometric analysis on the traffic dataset. This project spans from data gathering and method selection to the final presentation of findings in a detailed report.
 
 ## Target Audience
 
