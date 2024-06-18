@@ -9,4 +9,4 @@ summary: "This article explores pricing dynamics and consumer behavior in the se
 ---
 ##### Download
 
-+ [Presentation](https://lrossi95.github.io/papers/paper3/slides_second_hand.pdf)
++ [Presentation](https://lrossi95.github.io/slides_second_hand.pdf)
