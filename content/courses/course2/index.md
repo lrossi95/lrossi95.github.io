@@ -11,9 +11,9 @@ summary: "This graduate-level course is designed to equip students, particularly
 
 In this course, students learn how to conduct exploratory data analysis to summarize and visualize complex datasets, frame and articulate economic and policy-related problems clearly, and critically assess the impact of policies using econometric techniques. By the end of the course, students will be adept at applying these skills to make informed decisions and contribute effectively to policy evaluation and economic strategy development.
 
-# Detailed Course Outline
+## Detailed Course Outline
 
-## Introduction
+### Introduction
 
 The course begins by introducing graduate students in engineering to the fundamental concepts of econometrics, emphasizing practical applications in their field. It aims to develop competency in the following key areas:
 
@@ -30,14 +30,13 @@ The course begins by introducing graduate students in engineering to the fundame
     Development of visualizations to represent data and econometric results clearly.
     Crafting comprehensive reports and presentations that summarize research methodology, analysis, and recommendations.
 
-## Course Learning Objectives
+### Course Learning Objectives
 
-•	Develop Analytical Skills: Enhance ability to critically analyze economic and policy issues using quantitative methods.
-•	Problem Solving: Apply econometric tools to investigate and solve policy-related problems.
-•	Decision Making: Utilize data-driven insights to inform strategic decisions in policy and business contexts.
+- Develop Analytical Skills: Enhance ability to critically analyze economic and policy issues using quantitative methods.
+- Problem Solving: Apply econometric tools to investigate and solve policy-related problems.
+- Decision Making: Utilize data-driven insights to inform strategic decisions in policy and business contexts.
 
-## Methodology
-
+### Methodology
 
 The course employs a dynamic blend of teaching methodologies to ensure a comprehensive learning experience that bridges theoretical knowledge with practical application. This approach includes:
 
@@ -52,13 +51,13 @@ The course employs a dynamic blend of teaching methodologies to ensure a compreh
 
     Econometric Analysis: Once the policy is identified, students apply econometric models to evaluate the effects of this policy on traffic metrics. This involves hypothesis testing to ascertain the impact on accident frequencies, air quality improvements, and traffic flow enhancements.
     
-    Interpretation and Reporting: Students interpret their analytical results to determine the efficacy of the policy. They must consider external factors that could influence their results, such as seasonal variations or concurrent infrastructure projects.
+    Interpretation and Reporting: Students interpret their analytical results to determine the efficacy of the policy. 
 
 4.	Assessments:
 The course assessment is a final presentation where students showcase what they learned during the course through a detailed analysis of the traffic dataset.
 
 
-## Target Audience
+### Target Audience
 
 This course is ideal for graduate students in engineering who are interested in applying quantitative analysis to policy and economic research. It is also suitable for professionals in economics, public policy, and related fields seeking to upgrade their econometric skills.
 
