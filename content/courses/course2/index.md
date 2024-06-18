@@ -55,7 +55,7 @@ The course employs a dynamic blend of teaching methodologies to ensure a compreh
     Interpretation and Reporting: Students interpret their analytical results to determine the efficacy of the policy. They must consider external factors that could influence their results, such as seasonal variations or concurrent infrastructure projects.
 
 4.	Assessments:
-The course culminates in a comprehensive final presentation where students showcase their mastery of applied econometrics through a detailed analysis of the traffic dataset. This presentation not only demonstrates their ability to independently gather and analyze data but also their skill in effectively communicating their findings.
+The course assessment is a final presentation where students showcase what they learned during the course through a detailed analysis of the traffic dataset.
 
 
 ## Target Audience
