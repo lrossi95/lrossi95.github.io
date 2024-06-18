@@ -32,9 +32,9 @@ The course begins by introducing graduate students in engineering to the fundame
 
 ## Course Learning Objectives
 
-	•	Develop Analytical Skills: Enhance ability to critically analyze economic and policy issues using quantitative methods.
-	•	Problem Solving: Apply econometric tools to investigate and solve policy-related problems.
-	•	Decision Making: Utilize data-driven insights to inform strategic decisions in policy and business contexts.
+•	Develop Analytical Skills: Enhance ability to critically analyze economic and policy issues using quantitative methods.
+•	Problem Solving: Apply econometric tools to investigate and solve policy-related problems.
+•	Decision Making: Utilize data-driven insights to inform strategic decisions in policy and business contexts.
 
 ## Methodology
 
@@ -47,14 +47,16 @@ The course employs a dynamic blend of teaching methodologies to ensure a compreh
 
 3.	Project Work:
     Throughout the course, students engage with real-world datasets to practice their econometric skills. A key project involves a synthetic dataset on traffic where a specific policy has been implemented during the observation period.
+
     Project Scenario: The dataset includes traffic metrics such as accident rates, pollution levels, and congestion statistics before and after the policy implementation. Students are tasked to first detect the nature of the policy enacted—such as the introduction of speed limits, congestion charges, or emissions regulations—through exploratory data analysis.
+
     Econometric Analysis: Once the policy is identified, students apply econometric models to evaluate the effects of this policy on traffic metrics. This involves hypothesis testing to ascertain the impact on accident frequencies, air quality improvements, and traffic flow enhancements.
+    
     Interpretation and Reporting: Students interpret their analytical results to determine the efficacy of the policy. They must consider external factors that could influence their results, such as seasonal variations or concurrent infrastructure projects.
 
 4.	Assessments:
-    The course includes regular problem sets that challenge students to apply lecture material to new problems. These are designed to reinforce learning and prepare students for complex analyses in their projects.
-    Examinations are held to assess understanding and the ability to apply econometric methods independently.
-    A capstone project culminates the course, requiring students to conduct a comprehensive econometric analysis on the traffic dataset. This project spans from data gathering and method selection to the final presentation of findings in a detailed report.
+The course culminates in a comprehensive final presentation where students showcase their mastery of applied econometrics through a detailed analysis of the traffic dataset. This presentation not only demonstrates their ability to independently gather and analyze data but also their skill in effectively communicating their findings.
+
 
 ## Target Audience
 
