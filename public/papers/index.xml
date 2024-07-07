@@ -2,27 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Luca Rossi</title>
-    <link>https://pascalmichaillat.org/hugo-website/papers/</link>
+    <link>http://localhost:1313/papers/</link>
     <description>Recent content in Papers on Luca Rossi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A picture is worth a thousand words: privacy concerns in pre-owned Markets</title>
+      <link>http://localhost:1313/papers/paper3/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper3/</guid>
+      <description>This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust.</description>
+    </item>
+    
     <item>
       <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Country Music: Strategic Incentives of Competing Voters</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>We analyze the strategic proofness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by semifinal stage information rather than song quality, suggesting strategic considerations drive voter choices.</description>
     </item>
     
   </channel>

@@ -2,116 +2,215 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Luca Rossi</title>
-    <link>https://pascalmichaillat.org/hugo-website/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Luca Rossi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>keyword 10</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <title>Platforms</title>
+      <link>http://localhost:1313/tags/platforms/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-10/</guid>
+      <guid>http://localhost:1313/tags/platforms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 5</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <title>Pre-Owned</title>
+      <link>http://localhost:1313/tags/pre-owned/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-5/</guid>
+      <guid>http://localhost:1313/tags/pre-owned/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 6</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <title>Second Hand</title>
+      <link>http://localhost:1313/tags/second-hand/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-6/</guid>
+      <guid>http://localhost:1313/tags/second-hand/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 7</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <title>Sustainabilty</title>
+      <link>http://localhost:1313/tags/sustainabilty/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keyword 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keyword 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keyword 3</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-3/</guid>
+      <guid>http://localhost:1313/tags/sustainabilty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gender Equality</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/gender-equality/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/gender-equality/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/gender-equality/</guid>
+      <guid>http://localhost:1313/tags/gender-equality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music Industry</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/music-industry/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/music-industry/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/music-industry/</guid>
+      <guid>http://localhost:1313/tags/music-industry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Consumerism</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/political-consumerism/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/political-consumerism/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/political-consumerism/</guid>
+      <guid>http://localhost:1313/tags/political-consumerism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Movements</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/social-movements/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/social-movements/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/social-movements/</guid>
+      <guid>http://localhost:1313/tags/social-movements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>keyword 4</title>
-      <link>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Applied</title>
+      <link>http://localhost:1313/tags/applied/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/tags/keyword-4/</guid>
+      <guid>http://localhost:1313/tags/applied/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Models</title>
+      <link>http://localhost:1313/tags/business-models/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/business-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Econometrics</title>
+      <link>http://localhost:1313/tags/econometrics/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurovision</title>
+      <link>http://localhost:1313/tags/eurovision/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/eurovision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>http://localhost:1313/tags/pricing/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyis</title>
+      <link>http://localhost:1313/tags/statistical-analyis/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/statistical-analyis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voting</title>
+      <link>http://localhost:1313/tags/voting/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/voting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Collection</title>
+      <link>http://localhost:1313/tags/data-collection/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scraping</title>
+      <link>http://localhost:1313/tags/scraping/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword 10</title>
+      <link>http://localhost:1313/tags/keyword-10/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keyword-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword 5</title>
+      <link>http://localhost:1313/tags/keyword-5/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keyword-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword 6</title>
+      <link>http://localhost:1313/tags/keyword-6/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keyword-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword 7</title>
+      <link>http://localhost:1313/tags/keyword-7/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keyword-7/</guid>
       <description></description>
     </item>
     
