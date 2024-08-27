@@ -11,6 +11,8 @@ summary: "This article explores pricing dynamics and consumer behavior in the se
 ##### Download
 
 + [Presentation](https://lrossi95.github.io/papers/paper3/slides_second_hand.pdf)
++ [Draft](https://lrossi95.github.io/papers/paper3/main.pdf)
+
 
 ### Introduction
 This paper, currently in its developmental stages, aims to provide a detailed exploration of the monetary value associated with privacy within the second-hand market, specifically focusing on the sale of clothing. The core objective of this project is to delve deeply into the extent to which privacy considerations influence consumer behavior and affect market transactions.
