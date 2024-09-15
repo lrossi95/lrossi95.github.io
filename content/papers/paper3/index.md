@@ -1,5 +1,5 @@
 ---
-title: "A picture is worth a thousand words: privacy concerns in pre-owned Markets" 
+title: "Entrepreneurship in the Pre-Owned Clothing Market: The Role of Pictures in Second-Hand Marketplaces" 
 date: 2024-06-14
 tags: ["Second hand", "Sustainabilty", "Platforms", "Pre-owned"]
 author: ["Luca Rossi"]
