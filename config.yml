@@ -60,7 +60,7 @@ params:
               url: papers/
             - name: Courses
               url: courses/
-            - name: Mood
+            # - name: Mood
             # - name: Data
             #   url: data/
             # - name: Newsletter
