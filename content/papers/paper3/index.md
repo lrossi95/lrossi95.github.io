@@ -3,8 +3,11 @@ title: "A picture is worth a thousand words: privacy concerns in pre-owned Marke
 date: 2024-06-14
 tags: ["Second hand", "Sustainabilty", "Platforms", "Pre-owned"]
 author: ["Luca Rossi"]
-description: "This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust." 
-summary: "This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust." 
+# description: "This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust." 
+# summary: "This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust." 
+description: "This article explores pricing dynamics and consumer behavior in  second-hand marketplaces, emphasizing the significant role of privacy in user interactions and decision-making. Focusing on platforms like Tise, where users act as micro-entrepreneurs, I delve into how privacy concerns influence buying and selling practices." 
+summary: "This article explores pricing dynamics and consumer behavior in the second-hand marketplaces, emphasizing the significant role of privacy in user interactions and decision-making. Focusing on platforms like Tise, where users act as micro-entrepreneurs, I delve into how privacy concerns influence buying and selling practices." 
+
 
 ---
 
