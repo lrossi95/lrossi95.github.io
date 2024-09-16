@@ -9,7 +9,7 @@ summary: "We analyze the strategic proofness of positional voting systems using 
 ---
 ##### Download
 
-+ [Presentation](https://lrossi95.github.io/papers/paper2/country_music.pdf)
++ [Presentation](https://lrossi95.github.io/papers/paper2/presentation.pdf)
 
 ##### Abstract
 
