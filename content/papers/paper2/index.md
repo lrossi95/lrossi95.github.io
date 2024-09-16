@@ -7,6 +7,9 @@ description: "We analyze the strategic proofness of positional voting systems us
 summary: "We analyze the strategic proofness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by semifinal stage information rather than song quality, suggesting strategic considerations drive voter choices." 
 
 ---
+##### Download
+
++ [Presentation](https://lrossi95.github.io/papers/paper2/country_music.pdf)
 
 ##### Abstract
 
