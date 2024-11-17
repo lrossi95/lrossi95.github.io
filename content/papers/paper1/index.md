@@ -1,8 +1,8 @@
 ---
 title: "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption" 
-date: 2024-06-10
+date: 2024-10-17
 tags: ["Gender Equality", "Music Industry", "Social Movements", "Political Consumerism"]
-author: ["Luca Rossi","Michelangelo Rossi"]
+author: ["Luca Rossi"]
 description: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
 summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
 # cover:
@@ -19,7 +19,7 @@ summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appo
 
 ##### Download
 
-+ [Paper](https://www.cesifo.org/en/publications/2024/working-paper/courtrooms-charts-impact-kavanaughs-appointment-music-consumption)
++ [Paper](https://lrossi95.github.io/papers/paper1/JMP.pdf)
 + [Presentation](https://lrossi95.github.io/papers/paper1/kavanaugh_slides.pdf)
 
 ---
