@@ -2,7 +2,7 @@
 title: "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption" 
 date: 2024-11-17
 tags: ["Gender Equality", "Music Industry", "Social Movements", "Political Consumerism"]
-author: ["Luca Rossi"]
+author: ["Luca Rossi","Michelangelo Rossi"]
 description: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
 summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
 # cover:
