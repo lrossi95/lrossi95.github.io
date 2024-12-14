@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/papers/paper3/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/paper1/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gender-equality/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/music-industry/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/political-consumerism/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-movements/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/paper3/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/platforms/</loc>
@@ -22,24 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/sustainabilty/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/paper1/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gender-equality/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/music-industry/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/political-consumerism/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/social-movements/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/applied/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>

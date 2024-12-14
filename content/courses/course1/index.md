@@ -1,30 +1,82 @@
 ---
-title: "Data analysis in economics 1: Collection and Visualization"
+title: "Data Analysis in Economics 1: Collection and Visualization"
 date: 2024-01-12
-tags: ["Data Collection","Scraping"]
-author: ["Louis Pape","Luca Rossi"]
-description: "Graduate course on data collection and visualization" 
-summary: "This graduate course teaches students various methods to collect and visualize data" 
-cover:
-    # image: "course1.png"
-    alt: "Figure caption"
-    relative: false
-# editPost:
-#     URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
-#     Text: "YouTube playlist"
-showToc: true
-disableAnchoredHeadings: false
-
+tags: ["Data Collection", "Scraping","Research Design"]
+author: ["Louis Pape", "Luca Rossi"]
+description: "Graduate course on data collection and visualization"
+summary: "Graduate course teaching methods for data collection and visualization"
+showToc: false
 ---
 
 ## Introduction and Research Design
 
-This course introduces graduate students in Engineering to:
+This course is designed to equip graduate students in engineering and economics with the essential skills required to work with large datasets in economics and business studies. By focusing on real-world applications, students gain both theoretical knowledge and practical experience in data analysis. 
 
-1) Find a simple research question,
-2) Collect data to answer it using web-scraping in Python,
-3) Clean,  visualize, analyze and present your findings.
+The course emphasizes a hands-on approach, encouraging students to engage with cutting-edge tools and techniques. Through lectures, guided exercises, and group projects, students will develop a comprehensive understanding of how data can be leveraged to answer complex economic and business questions.
 
+---
+
+## Part 1: Systematic Data Collection
+
+### **APIs and Data Retrieval**
+
+In the first phase of the course, students will explore how to collect structured data from online sources using APIs. By interacting with popular platforms such as Twitter, LinkedIn, or government open data portals, students will learn how to programmatically query and retrieve datasets. This section emphasizes:
+- Understanding API documentation.
+- Authentication and access protocols.
+- Handling large-scale data requests.
+
+### **Web Scraping Techniques**
+
+The course also covers web scraping as a method to collect unstructured or semi-structured data from websites. Key topics include:
+- Ethical considerations and legal guidelines for web scraping.
+- Identifying patterns in web page structures (HTML, CSS, DOM).
+- Using Python libraries such as `BeautifulSoup` and `Selenium` for scraping.
+- Strategies for managing dynamic and paginated content.
+
+By the end of this section, students will have practical experience in collecting datasets tailored to their research objectives.
+
+---
+
+## Part 2: Data Visualization and Analysis
+
+### **Descriptive Statistics and Data Cleaning**
+
+Before diving into visualization, students will learn to clean and preprocess raw data. This involves:
+- Identifying and handling missing data.
+- Transforming datasets for analysis.
+- Creating summary statistics and identifying patterns.
+
+Students will use tools like Python and R to organize and prepare data for visualization.
+
+### **Creating Visual Narratives**
+
+The second phase of the course focuses on visualizing data to reveal insights and correlations between variables. Topics include:
+- Principles of effective data visualization.
+- Types of visualizations (bar charts, scatterplots, heatmaps, and more).
+- Tools for visualization, such as `matplotlib`, `seaborn`, `ggplot2`.
+- Crafting visual narratives that highlight key findings.
+
+---
+
+## Group Research Projects
+
+Throughout the course, students will work in small groups to design and execute a research project. These projects encourage collaboration and creativity, allowing students to apply their newly acquired skills to real-world problems. The process includes:
+
+1. **Defining a Research Question**: Students identify a specific economic or business-related question that can be explored using data.
+2. **Data Collection**: Groups collect datasets using the techniques covered in the first part of the course.
+3. **Analysis and Visualization**: Using the methods from the second part of the course, groups analyze their data and create visualizations to support their findings.
+4. **Presentation**: At the end of the course, each group presents their research, sharing insights and discussing their methodology.
+
+---
+
+## Learning Outcomes
+
+By the end of the course, students will:
+1. Understand the ethical and technical challenges of data collection.
+2. Be proficient in using APIs and web scraping to gather data.
+3. Master techniques for cleaning, summarizing, and organizing data.
+4. Create compelling visualizations to communicate insights effectively.
+5. Work collaboratively on research projects and present findings to an academic audience.
 
 <!-- ---
 

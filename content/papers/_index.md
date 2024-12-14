@@ -1,6 +1,6 @@
 ---
 title: "Papers"
-description: "Preprints and articles on this website."
+description: "Articles and working articles."
 ---
-#### Work in Progress
+#### Working papers
 ---

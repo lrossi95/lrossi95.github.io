@@ -1,113 +1,126 @@
 baseURL: "https://lrossi95.github.io" 
 title: Luca Rossi
-paginate: 20
+
+# Pagination updated to new format
+pagination:
+  pagerSize: 10
+
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
+# Taxonomies
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Papers
-          url: papers/
-          weight: 1
-        - name: Courses
-          url: courses/
-        #   weight: 2
-        # - name: Data
-        #   url: data/
-        #   weight: 3 
-        # - name: Newsletter
-        #   url: https://pmichaillat.substack.com
-        #   weight: 4
+  main:
+    - name: Papers
+      url: papers/
+      weight: 1
+    - name: Courses
+      url: courses/
+      # Uncomment if needed
+      # weight: 2
+    # - name: Data
+    #   url: data/
+    #   weight: 3 
+    # - name: Newsletter
+    #   url: https://pmichaillat.substack.com
+    #   weight: 4
 
 params:
-    description: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, spending a LOT of time mining data and running regression analysis (coding a lot)."
-    author: Luca Rossi
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Luca Rossi
-          subtitle: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, encompassing data mining, analytical inference, and a strong enthusiasm for coding."
-          imageUrl: "picture.jpg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Luca Rossi
-          buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            # - name: Mood
-            # - name: Data
-            #   url: data/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:rossi.luca95@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        # - name: Google Scholar
-        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        # - name: YouTube
-        #   url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/lrossi95
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
-        # - name: Twitter
-        #   url: https://twitter.com/pmichaillat
+  description: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, spending a LOT of time mining data and running regression analysis (coding a lot)."
+  author: Luca Rossi
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  
+  profileMode:
+    enabled: true
+    title: Luca Rossi
+    subtitle: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, encompassing data mining, analytical inference, and a strong enthusiasm for coding."
+    imageUrl: "picture.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Luca Rossi
+    buttons:
+      - name: Papers
+        url: papers/
+      - name: Courses
+        url: courses/
+      # Uncomment as needed
+      # - name: Mood
+      # - name: Data
+      #   url: data/
+      # - name: Newsletter
+      #   url: https://pmichaillat.substack.com
+      # - name: Tags
+      #   url: tags/
+      # - name: Archive
+      #   url: archive/
 
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Luca Rossi"
-      icon: favicon.ico
-      iconHeight: 18
+
+  # Social icons section
+  socialIcons:
+    - name: CV
+      url: cv.pdf
+    - name: Email
+      url: mailto:rossi.luca95@gmail.com
+    - name: Location
+      url: location/
+    - name: Office Hours
+      url: officehours/
+    # Uncomment as needed
+    # - name: Google Scholar
+    #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+    # - name: YouTube
+    #   url: https://www.youtube.com/@pmichaillat
+    - name: GitHub
+      url: https://github.com/lrossi95
+    # - name: Substack
+    #   url: https://pmichaillat.substack.com
+    # - name: Twitter
+    #   url: https://twitter.com/pmichaillat
+
+  # Additional parameters
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Luca Rossi"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn 
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
