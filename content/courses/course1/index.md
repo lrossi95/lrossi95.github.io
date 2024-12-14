@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis in Economics 1: Collection and Visualization"
-date: 2024-01-12
+date: 2024-12-12
 tags: ["Data Collection", "Scraping","Research Design"]
 author: ["Louis Pape", "Luca Rossi"]
 description: "Graduate course on data collection and visualization"
