@@ -26,15 +26,17 @@ summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appo
 
 ##### Abstract
 
-This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify. With a difference-in-differences approach, we analyze the streaming data of the top 200 songs, revealing a significant increase of at least 13\% in the streams of songs by female artists post-appointment. This sustained shift in consumer behaviour suggests a reaction to heightened media attention on gender issues. Our findings are robust against confounding factors such as seasonal trends and Spotify's promotional activities. Further, the study delves into the role of sexist lyrics, finding a more pronounced effect in songs with sexist terms. This research contributes to understanding political consumerism, showing how significant socio-political events can influence consumer preferences in seemingly unrelated sectors like the music industry. It underscores the importance of adaptive strategies in digital marketplaces in response to external socio-political changes, and highlights the broader societal implications of major events on consumer behaviour and attitudes, particularly concerning gender imbalances.
+This study provides evidence of increased music streams for female performers in the United States, particularly for songs with sexist and empowering lyrics. Using streaming data from Spotify’s top 200 songs, a difference-in-differences analysis reveals a significant rise of at least 16\% in streams of songs by female artists, underscoring shifts in consumer behaviour linked to gender representation in music. In particular, we explore the impact of Brett Kavanaugh’s Supreme Court appointment, a socio-political event that intensified media focus on gender issues. The findings suggest that this heightened attention contributed to the observed changes in listening patterns post-appointment. The results are robust against potential confounders such as seasonal trends and Spotify’s promotional activities. This research contributes to understanding political consumerism, showing how significant socio-political events can influence consumer preferences in seemingly unrelated sectors like the music industry. It underscores the importance of adaptive strategies in digital marketplaces in response to external socio-political changes, and highlights the broader societal implications of major events on consumer behaviour and attitudes, particularly concerning gender imbalances.
 
-<!-- ---
 
-##### Figure X: Figure caption
 
-![](paper1.png)
+---
 
---- -->
+##### Figure 1: Event study
+
+![](images/main_event_study.pdf)
+
+---
 
 <!-- ##### Citation
 
