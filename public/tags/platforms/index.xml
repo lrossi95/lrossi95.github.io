@@ -4,26 +4,23 @@
     <title>Platforms on Luca Rossi</title>
     <link>http://localhost:1313/tags/platforms/</link>
     <description>Recent content in Platforms on Luca Rossi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/platforms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/platforms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
       <link>http://localhost:1313/papers/paper3/</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/paper3/</guid>
-      <description>This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images.</description>
+      <description>This article investigates the role of images in influencing sales in second-hand marketplaces.</description>
     </item>
-    
     <item>
       <title>Platform Economics</title>
       <link>http://localhost:1313/courses/course4/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course4/</guid>
       <description>Platofrms econometrics</description>
     </item>
-    
   </channel>
 </rss>

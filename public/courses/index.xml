@@ -4,35 +4,30 @@
     <title>Teaching on Luca Rossi</title>
     <link>http://localhost:1313/courses/</link>
     <description>Recent content in Teaching on Luca Rossi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analysis in Economics 1: Collection and Visualization</title>
       <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course1/</guid>
       <description>Graduate course on data collection and visualization</description>
     </item>
-    
     <item>
       <title>Data analysis in economics 2: Applied Econometrics</title>
       <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course2/</guid>
       <description>Graduate course on applied econometrics</description>
     </item>
-    
     <item>
       <title>Platform Economics</title>
       <link>http://localhost:1313/courses/course4/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course4/</guid>
       <description>Platofrms econometrics</description>
     </item>
-    
   </channel>
 </rss>

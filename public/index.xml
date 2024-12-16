@@ -4,77 +4,63 @@
     <title>Luca Rossi</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Luca Rossi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
       <link>http://localhost:1313/papers/paper3/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/papers/paper3/</guid>
       <description>This article investigates the role of images in influencing sales in second-hand marketplaces.</description>
     </item>
-    
     <item>
       <title>Data Analysis in Economics 1: Collection and Visualization</title>
       <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course1/</guid>
       <description>Graduate course on data collection and visualization</description>
     </item>
-    
     <item>
       <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
       <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
     </item>
-    
     <item>
       <title>Country Music: Strategic Incentives of Competing Voters</title>
       <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This article analyzes the strategic robustness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by information from the semifinal stage rather than the quality of the songs.</description>
     </item>
-    
     <item>
       <title>Data analysis in economics 2: Applied Econometrics</title>
       <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course2/</guid>
       <description>Graduate course on applied econometrics</description>
     </item>
-    
     <item>
       <title>Platform Economics</title>
       <link>http://localhost:1313/courses/course4/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/courses/course4/</guid>
       <description>Platofrms econometrics</description>
     </item>
-    
     <item>
       <title>Dataset Title</title>
       <link>http://localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://localhost:1313/backup/paper2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/backup/paper2/</guid>
       <description>&lt;!-- ---
 title: &#34;Paper Title&#34; 
@@ -138,25 +124,19 @@ year = {Year}}
 + [Presentation slides](presentation2.pdf)
  --&gt;</description>
     </item>
-    
-    
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/location/</guid>
       <description>Mailing and office addresses at Télécom Paris.</description>
     </item>
-    
     <item>
       <title>Office Hours</title>
       <link>http://localhost:1313/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
-    
   </channel>
 </rss>
