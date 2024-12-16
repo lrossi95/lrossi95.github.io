@@ -3,8 +3,8 @@ title: "Country Music: Strategic Incentives of Competing Voters"
 date: 2024-05-01
 tags: ["Eurovision", "Music Industry", "Voting"]
 author: ["Pietro Battiston","Marco Magnani","Dimitri Paolini","Luca Rossi"]
-description: "We analyze the strategic proofness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by semifinal stage information rather than song quality, suggesting strategic considerations drive voter choices." 
-summary: "We analyze the strategic proofness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by semifinal stage information rather than song quality, suggesting strategic considerations drive voter choices." 
+description: "This article analyzes the strategic robustness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by information from the semifinal stage rather than the quality of the songs." 
+summary: "This article analyzes the strategic robustness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by information from the semifinal stage rather than the quality of the songs." 
 
 ---
 ##### Download
