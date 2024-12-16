@@ -1,12 +1,12 @@
 ---
 title: "Picture Perfect? The Impact of Images in Second-Hand Marketplaces" 
-date: 2024-06-14
+date: 2024-12-16
 tags: ["Second hand", "Sustainabilty", "Platforms", "Pre-owned"]
 author: ["Luca Rossi"]
-# description: "This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust." 
-# summary: "This article explores pricing dynamics and consumer behavior in the second-hand market, emphasizing the significant role of privacy in user interactions and decision-making. It delves into how privacy concerns influence buying and selling practices, impacting overall market efficiency and trust." 
-description: "This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images." 
-summary: "This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images." 
+
+description: "This article investigates the role of images in influencing sales in second-hand marketplaces."
+summary: "This article investigates the role of images in influencing sales in second-hand marketplaces."  
+# summary: "This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images." 
 
 
 ---
@@ -44,7 +44,11 @@ Additional variables were created to enhance the analysis:
 2. **Consumer Decision-Making:**
    - Exploring the decision-making processes behind why sellers include personal photos in their listings.
 
-### Results
+####  Summary of Findings
+
+Catalogue and professional model images enhance perceived quality, with catalogue images boosting sales for tops (0.365***) and jackets (0.234***), and professional model images excelling for dresses (0.585***). Real-person images show mixed results, positively impacting dress sales (0.352***) but negatively affecting sweaters (-0.124***) and pants (-0.137***).
+
+Additionally, the number of images consistently improves sales, with each extra image increasing the likelihood of sales for sweaters (0.070***) and pants (0.052***). These findings highlight the importance of strategic image use, helping sellers and platforms optimize listings to drive sales.
 
 #### Dependent Variable: Sold Outcome (0/1)
 
@@ -62,6 +66,8 @@ Additional variables were created to enhance the analysis:
 **Controls:** ✓  
 **Years:** 2023  
 **Fixed Effects:** Product Category
+
+#### Detailed Results
 
 
 The analysis reveals key insights into how different image types influence sales outcomes across various categories of second-hand clothing. The regression results, summarized in the table above, provide a nuanced understanding of these dynamics:
@@ -81,11 +87,11 @@ The analysis reveals key insights into how different image types influence sales
 5. **Category-Specific Trends**:  
    - The effectiveness of image types varies significantly between categories. Dresses and jackets appear to benefit the most from professional and catalogue images, while pants and sweaters see limited or negative effects from real-person photos.
 
-### Implications of Results
+<!-- ### Implications of Results
 
 These findings highlight the strategic importance of tailoring image types to specific product categories in second-hand marketplaces. The data suggests that while professional and catalogue images often enhance sales outcomes, real-person photos can be effective in certain contexts where authenticity and fit are prioritized, such as dresses. Additionally, the strong positive effect of image quantity emphasizes the value of providing multiple views to potential buyers.
 
-By leveraging these insights, sellers can optimize their listing strategies to align with consumer preferences, while platform operators might consider offering tools or guidelines to help users select the most effective image types for their listings.
+By leveraging these insights, sellers can optimize their listing strategies to align with consumer preferences, while platform operators might consider offering tools or guidelines to help users select the most effective image types for their listings. -->
 
 <!-- ### Introduction
 This paper investigates the monetary value of privacy in second-hand clothing markets. It aims to analyze how privacy considerations shape consumer behaviour and influence market transactions, with a specific focus on the role of image sharing in driving sales and fostering trust.
