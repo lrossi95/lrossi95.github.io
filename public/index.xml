@@ -6,7 +6,16 @@
     <description>Recent content on Luca Rossi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
+      <link>http://localhost:1313/papers/paper3/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper3/</guid>
+      <description>This article investigates the role of images in influencing sales in second-hand marketplaces.</description>
+    </item>
+    
     <item>
       <title>Data Analysis in Economics 1: Collection and Visualization</title>
       <link>http://localhost:1313/courses/course1/</link>
@@ -26,21 +35,12 @@
     </item>
     
     <item>
-      <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
-      <link>http://localhost:1313/papers/paper3/</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/papers/paper3/</guid>
-      <description>This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images.</description>
-    </item>
-    
-    <item>
       <title>Country Music: Strategic Incentives of Competing Voters</title>
       <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/papers/paper2/</guid>
-      <description>We analyze the strategic proofness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by semifinal stage information rather than song quality, suggesting strategic considerations drive voter choices.</description>
+      <description>This article analyzes the strategic robustness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by information from the semifinal stage rather than the quality of the songs.</description>
     </item>
     
     <item>
