@@ -14,7 +14,7 @@ summary: "This article investigates the role of images in influencing sales in s
 ##### Download
 
 + [Presentation](https://lrossi95.github.io/papers/paper3/presentation.pdf)
-+ [Draft](https://lrossi95.github.io/papers/paper3/main.pdf)
+<!-- + [Draft](https://lrossi95.github.io/papers/paper3/main.pdf) -->
 
 ### Introduction
 This paper investigates the monetary value of privacy in second-hand clothing markets. It aims to analyse how privacy considerations shape consumer behaviour and influence market transactions, with a specific focus on the role of image sharing in driving sales and fostering trust.
