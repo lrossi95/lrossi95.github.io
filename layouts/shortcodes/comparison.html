@@ -1,0 +1,23 @@
+<div id="juxtapose-{{ .Get "id" }}" class="juxtapose">
+    <img src="{{ .Get "before" }}" alt="{{ .Get "beforealt" | default "Before" }}">
+    <img src="{{ .Get "after" }}" alt="{{ .Get "afteralt" | default "After" }}">
+  </div>
+  <script type="text/javascript">
+    new juxtapose.JXSlider('#juxtapose-{{ .Get "id" }}',
+      [
+        {
+          src: '{{ .Get "before" }}',
+          label: '{{ .Get "beforelabel" | default "Before" }}'
+        },
+        {
+          src: '{{ .Get "after" }}',
+          label: '{{ .Get "afterlabel" | default "After" }}'
+        }
+      ],
+      {
+        animate: true,
+        showLabels: true,
+        showCredits: false,
+        startingPosition: "50%"
+      });
+  </script>

@@ -11,33 +11,10 @@ summary: "This article evaluate the Bologna città 30 policy."
 
 ---
 
-<!-- Include JuxtaposeJS CSS -->
-<link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
-
-<!-- Container for the before/after slider -->
-<div id="juxtapose-container" style="width: 100%; max-width: 800px; margin: auto;"></div>
-
-<!-- Include JuxtaposeJS JavaScript -->
-<script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
-
-<script>
-  new juxtapose.JXSlider('#juxtapose-container',
-    [
-      {
-        src: "/images/2023.jpg",
-        label: "2023"
-      },
-      {
-        src: "/images/2024.jpg",
-        label: "2024"
-      }
-    ],
-    {
-      animate: true,
-      showLabels: true,
-      showCredits: false,
-      startingPosition: "50%",
-      makeResponsive: true
-    }
-  );
-</script>
+{{< comparison 
+    id="1" 
+    before="/images/2023.jpg" 
+    after="/images/2024.jpg" 
+    beforelabel="Before" 
+    afterlabel="After" 
+>}}
