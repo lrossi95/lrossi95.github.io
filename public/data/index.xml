@@ -25,28 +25,28 @@
 &lt;li&gt;Il numero complessivo di incidenti &lt;strong&gt;non ha subito variazioni significative&lt;/strong&gt; tra il 2023 e il 2024.&lt;/li&gt;
 &lt;li&gt;Ciò suggerisce che l&amp;rsquo;impatto del progetto &amp;ldquo;Città 30&amp;rdquo; potrebbe essere più sulla &lt;strong&gt;gravità&lt;/strong&gt; che sulla &lt;strong&gt;frequenza&lt;/strong&gt; degli incidenti.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&#34;index_files/figure-html/Barplot codes percentage-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;images/Barplot codes percentage-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;h3 id=&#34;2-codici-di-gravità-degli-incidenti&#34;&gt;2. Codici di Gravità degli Incidenti&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Riduzione dei codici rossi&lt;/strong&gt; (incidenti più gravi) rispetto al 2023.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Aumento dei codici gialli&lt;/strong&gt;, indicando una gravità media inferiore degli incidenti.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Leggero aumento dei codici verdi&lt;/strong&gt;, ma meno significativo rispetto ai gialli.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&#34;index_files/figure-html/Barplot codes actual-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;images/Barplot codes actual-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;h3 id=&#34;3-andamento-mensile-degli-incidenti-in-città-30&#34;&gt;3. Andamento Mensile degli Incidenti in &amp;ldquo;Città 30&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;La percentuale di incidenti nelle aree a &lt;strong&gt;30 km/h è stabile o in leggero aumento&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Le zone &lt;strong&gt;fuori da &amp;ldquo;Città 30&amp;rdquo;&lt;/strong&gt; mantengono un numero di incidenti inferiore.&lt;/li&gt;
 &lt;li&gt;Questo suggerisce che il progetto non ha ancora ridotto il numero totale di incidenti, ma ha contribuito a diminuirne la gravità.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&#34;index_files/figure-html/Seriousness_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;images/Seriousness_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;h3 id=&#34;4-distribuzione-spaziale-degli-incidenti&#34;&gt;4. Distribuzione Spaziale degli Incidenti&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Gli incidenti continuano a verificarsi nelle &lt;strong&gt;stesse aree&lt;/strong&gt; rispetto all&amp;rsquo;anno precedente.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&amp;ldquo;0&amp;rdquo;&lt;/strong&gt; indica zone &lt;strong&gt;fuori da Città 30&lt;/strong&gt;, mentre &lt;strong&gt;&amp;ldquo;1&amp;rdquo;&lt;/strong&gt; indica zone &lt;strong&gt;all&amp;rsquo;interno di Città 30&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;La &lt;strong&gt;proporzione degli incidenti è 80% - 20%&lt;/strong&gt; tra le zone che oggi fanno parte di &amp;ldquo;Città 30&amp;rdquo; e quelle esterne.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&#34;index_files/figure-html/Before_After_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;images/Before_After_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;iframe src=&#34;image_comparison.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
