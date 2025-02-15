@@ -1,12 +1,53 @@
 ---
-title: "Citta30" 
-date: 2024-12-16
-tags: ["Policy Evaluation"]
-author: ["Luca Rossi"]
-
-description: "This article evaluates the Bologna città 30 policy."
-summary: "This article evaluates the Bologna città 30 policy."  
-# summary: "This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images." 
-
+title: "Bologna citta 30"
+author: "Luca Rossi"
+output:
+  blogdown::html_page:
+    keep_md: true  # Ensure the Markdown file retains YAML metadata
+categories: ["Policy Evaluation"]
+tags: ["policy", "evaluation"]
 ---
+
+
+
+
+
+
+
+#### Grafico sulla gravita degli incidenti
+
+Ad un primo sguardo sembrano scendere i codici rossi ed aumentare i codici gialli dopo 2 mesi dall'introduzione di "Bologna citta 30"
+
+<img src="images/Seriousness_graph-1.png" width="960" style="display: block; margin: auto;" />
+
+
+
+
+#### number of incidents
+
+The number of incidents seems to be approximately the same
+
+<img src="images/Barplot codes actual-1.png" width="960" style="display: block; margin: auto;" />
+
+
+#### number of incidents in percentage
+
+
+The number of red codes decreases and it increases the number of green code
+
+
+<img src="images/Barplot codes percentage-1.png" width="960" style="display: block; margin: auto;" />
+
+Ad un primo sguardo gli incidenti sembrano essere nelle stesse aree
+  - 0 indica zone che non sono in citta 30 
+  - 1 indica zone che sono in citta 30
+
+La proporzione degli incidenti e 80 / 20 per le zone che oggi sono in citta 30C
+
+<img src="images/Before_After_graph-1.png" width="960" style="display: block; margin: auto;" />
+
+
+
+
+
 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Policy on Luca Rossi</title>
+    <link>http://localhost:1313/tags/policy/</link>
+    <description>Recent content in Policy on Luca Rossi</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bologna citta 30</title>
+      <link>http://localhost:1313/data/paper4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/paper4/</guid>
+      <description>&lt;h4 id=&#34;grafico-sulla-gravita-degli-incidenti&#34;&gt;Grafico sulla gravita degli incidenti&lt;/h4&gt;
+&lt;p&gt;Ad un primo sguardo sembrano scendere i codici rossi ed aumentare i codici gialli dopo 2 mesi dall&amp;rsquo;introduzione di &amp;ldquo;Bologna citta 30&amp;rdquo;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;## Error: IOError: Failed to open local file &amp;#39;../datasets/ssn.feather&amp;#39;. Detail: [errno 2] No such file or directory
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;img src=&#34;../../lrossi95.github.io/static/images/Seriousness graph-1.png&#34; alt=&#34;plot of chunk Seriousness graph&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;plot of chunk Seriousness graph&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;## Error: IOError: Failed to open local file &amp;#39;../datasets/ssn.feather&amp;#39;. Detail: [errno 2] No such file or directory
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;number-of-incidents&#34;&gt;number of incidents&lt;/h4&gt;
+&lt;p&gt;The number of incidents seems to be approximately the same&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
