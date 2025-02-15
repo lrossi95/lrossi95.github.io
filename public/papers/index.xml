@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Luca Rossi</title>
-    <link>http://localhost:1313/papers/</link>
+    <link>http://localhost:53716/papers/</link>
     <description>Recent content in Papers on Luca Rossi</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53716/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
-      <link>http://localhost:1313/papers/paper3/</link>
+      <link>http://localhost:53716/papers/paper3/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper3/</guid>
+      <guid>http://localhost:53716/papers/paper3/</guid>
       <description>This article investigates the role of images in influencing sales in second-hand marketplaces.</description>
     </item>
     <item>
       <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <link>http://localhost:53716/papers/paper1/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/papers/paper1/</guid>
       <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
     </item>
     <item>
       <title>Country Music: Strategic Incentives of Competing Voters</title>
-      <link>http://localhost:1313/papers/paper2/</link>
+      <link>http://localhost:53716/papers/paper2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper2/</guid>
+      <guid>http://localhost:53716/papers/paper2/</guid>
       <description>This article analyzes the strategic robustness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by information from the semifinal stage rather than the quality of the songs.</description>
     </item>
   </channel>

@@ -2,178 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Luca Rossi</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:53716/tags/</link>
     <description>Recent content in Tags on Luca Rossi</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53716/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Platforms</title>
-      <link>http://localhost:1313/tags/platforms/</link>
+      <link>http://localhost:53716/tags/platforms/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/platforms/</guid>
+      <guid>http://localhost:53716/tags/platforms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy Evaluation</title>
+      <link>http://localhost:53716/tags/policy-evaluation/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/policy-evaluation/</guid>
       <description></description>
     </item>
     <item>
       <title>Pre-Owned</title>
-      <link>http://localhost:1313/tags/pre-owned/</link>
+      <link>http://localhost:53716/tags/pre-owned/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pre-owned/</guid>
+      <guid>http://localhost:53716/tags/pre-owned/</guid>
       <description></description>
     </item>
     <item>
       <title>Second Hand</title>
-      <link>http://localhost:1313/tags/second-hand/</link>
+      <link>http://localhost:53716/tags/second-hand/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/second-hand/</guid>
+      <guid>http://localhost:53716/tags/second-hand/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainabilty</title>
-      <link>http://localhost:1313/tags/sustainabilty/</link>
+      <link>http://localhost:53716/tags/sustainabilty/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainabilty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Collection</title>
-      <link>http://localhost:1313/tags/data-collection/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-collection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research Design</title>
-      <link>http://localhost:1313/tags/research-design/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research-design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scraping</title>
-      <link>http://localhost:1313/tags/scraping/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scraping/</guid>
+      <guid>http://localhost:53716/tags/sustainabilty/</guid>
       <description></description>
     </item>
     <item>
       <title>Gender Equality</title>
-      <link>http://localhost:1313/tags/gender-equality/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gender-equality/</guid>
+      <link>http://localhost:53716/tags/gender-equality/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/gender-equality/</guid>
       <description></description>
     </item>
     <item>
       <title>Music Industry</title>
-      <link>http://localhost:1313/tags/music-industry/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music-industry/</guid>
+      <link>http://localhost:53716/tags/music-industry/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/music-industry/</guid>
       <description></description>
     </item>
     <item>
       <title>Political Consumerism</title>
-      <link>http://localhost:1313/tags/political-consumerism/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/political-consumerism/</guid>
+      <link>http://localhost:53716/tags/political-consumerism/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/political-consumerism/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Movements</title>
-      <link>http://localhost:1313/tags/social-movements/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-movements/</guid>
+      <link>http://localhost:53716/tags/social-movements/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/social-movements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Collection</title>
+      <link>http://localhost:53716/tags/data-collection/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/data-collection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Design</title>
+      <link>http://localhost:53716/tags/research-design/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/research-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scraping</title>
+      <link>http://localhost:53716/tags/scraping/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53716/tags/scraping/</guid>
       <description></description>
     </item>
     <item>
       <title>Applied</title>
-      <link>http://localhost:1313/tags/applied/</link>
+      <link>http://localhost:53716/tags/applied/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/applied/</guid>
+      <guid>http://localhost:53716/tags/applied/</guid>
       <description></description>
     </item>
     <item>
       <title>Business Models</title>
-      <link>http://localhost:1313/tags/business-models/</link>
+      <link>http://localhost:53716/tags/business-models/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/business-models/</guid>
+      <guid>http://localhost:53716/tags/business-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
+      <link>http://localhost:53716/tags/data-analysis/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <guid>http://localhost:53716/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Econometrics</title>
-      <link>http://localhost:1313/tags/econometrics/</link>
+      <link>http://localhost:53716/tags/econometrics/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/econometrics/</guid>
+      <guid>http://localhost:53716/tags/econometrics/</guid>
       <description></description>
     </item>
     <item>
       <title>Economics</title>
-      <link>http://localhost:1313/tags/economics/</link>
+      <link>http://localhost:53716/tags/economics/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/economics/</guid>
+      <guid>http://localhost:53716/tags/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Eurovision</title>
-      <link>http://localhost:1313/tags/eurovision/</link>
+      <link>http://localhost:53716/tags/eurovision/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/eurovision/</guid>
+      <guid>http://localhost:53716/tags/eurovision/</guid>
       <description></description>
     </item>
     <item>
       <title>Pricing</title>
-      <link>http://localhost:1313/tags/pricing/</link>
+      <link>http://localhost:53716/tags/pricing/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pricing/</guid>
+      <guid>http://localhost:53716/tags/pricing/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistical Analyis</title>
-      <link>http://localhost:1313/tags/statistical-analyis/</link>
+      <link>http://localhost:53716/tags/statistical-analyis/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/statistical-analyis/</guid>
+      <guid>http://localhost:53716/tags/statistical-analyis/</guid>
       <description></description>
     </item>
     <item>
       <title>Voting</title>
-      <link>http://localhost:1313/tags/voting/</link>
+      <link>http://localhost:53716/tags/voting/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/voting/</guid>
+      <guid>http://localhost:53716/tags/voting/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 10</title>
-      <link>http://localhost:1313/tags/keyword-10/</link>
+      <link>http://localhost:53716/tags/keyword-10/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-10/</guid>
+      <guid>http://localhost:53716/tags/keyword-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 5</title>
-      <link>http://localhost:1313/tags/keyword-5/</link>
+      <link>http://localhost:53716/tags/keyword-5/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-5/</guid>
+      <guid>http://localhost:53716/tags/keyword-5/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 6</title>
-      <link>http://localhost:1313/tags/keyword-6/</link>
+      <link>http://localhost:53716/tags/keyword-6/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-6/</guid>
+      <guid>http://localhost:53716/tags/keyword-6/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 7</title>
-      <link>http://localhost:1313/tags/keyword-7/</link>
+      <link>http://localhost:53716/tags/keyword-7/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-7/</guid>
+      <guid>http://localhost:53716/tags/keyword-7/</guid>
       <description></description>
     </item>
   </channel>
