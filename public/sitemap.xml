@@ -112,13 +112,11 @@
   </url><url>
     <loc>http://localhost:1313/backup/paper2/</loc>
   </url><url>
-    <loc>http://localhost:1313/data/image_comparison/</loc>
+    <loc>http://localhost:1313/data/paper4/</loc>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url><url>
     <loc>http://localhost:1313/backup/</loc>
-  </url><url>
-    <loc>http://localhost:1313/data/paper4/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/evaluation/</loc>
   </url><url>

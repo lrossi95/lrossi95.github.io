@@ -125,124 +125,38 @@ year = {Year}}
  --&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/data/image_comparison/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/image_comparison/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-  &lt;meta charset=&#34;UTF-8&#34;&gt;
-  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-  &lt;title&gt;Image Comparison&lt;/title&gt;
-
-  &lt;style&gt;
-    @layer demo {
-      .compare {
-        display: grid;
-        
-        &gt; * {
-          grid-area: 1 / 1;
-        }
-        
-        &gt; section {
-          display: grid;
-          place-content: center;
-        }
-        
-        .before {
-          mask: linear-gradient(to right, #000 0, var(--pos, 50%), #0000 0);
-        }
-
-        .after {
-          mask: linear-gradient(to right, #0000 0, var(--pos, 50%), #000 0);
-        }
-
-        &gt; input[type=&#34;range&#34;] {
-          z-index: 1;
-          appearance: none;
-          background: transparent;
-          cursor: pointer;
-          -webkit-tap-highlight-color: transparent;
-
-          &amp;::-webkit-slider-thumb {
-            appearance: none;
-            inline-size: 4px;
-            block-size: 100dvh;
-            background-color: CanvasText;
-          } 
-
-          &amp;::-moz-range-thumb {
-            appearance: none;
-            inline-size: 4px;
-            block-size: 100dvh;
-            background-color: CanvasText;
-          }
-        }
-      }
-      
-      img {
-        max-block-size: 80dvh;
-        max-inline-size: 100%;
-      }
-    }
-
-    @layer demo.support {
-      * {
-        box-sizing: border-box;
-        margin: 0;
-      }
-
-      html {
-        block-size: 100%;
-        color-scheme: dark light;
-      }
-
-      body {
-        min-block-size: 100%;
-        font-family: system-ui, sans-serif;
-        display: grid;
-      }
-    }
-  &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-  &lt;header&gt;
-    &lt;h1&gt;Bologna città 30 comparison tool&lt;/h1&gt;
-  &lt;/header&gt;
-
-  &lt;div class=&#34;compare&#34;&gt;
-    &lt;section class=&#34;before&#34;&gt;
-      &lt;img src=&#34;../paper4/images/before.jpg&#34; alt=&#34;2023&#34; /&gt;
-    &lt;/section&gt;
-    &lt;section class=&#34;after&#34;&gt;
-      &lt;img src=&#34;../paper4/images/after.jpg&#34; alt=&#34;2024&#34; /&gt;
-    &lt;/section&gt;
-    &lt;input type=&#34;range&#34; id=&#34;range&#34; step=&#34;0.1&#34;&gt;
-  &lt;/div&gt;
-
-  &lt;script&gt;
-    range.oninput = () =&gt;
-    document.body.style.setProperty(&#39;--pos&#39;, range.value + &#39;%&#39;)
-  &lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title>Bologna citta 30</title>
+      <title>Analisi preliminare dell&#39;Impatto del Progetto &#39;Bologna Città 30&#39; sugli Incidenti Stradali</title>
       <link>http://localhost:1313/data/paper4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/data/paper4/</guid>
-      <description>&lt;h4 id=&#34;grafico-sulla-gravita-degli-incidenti&#34;&gt;Grafico sulla gravita degli incidenti&lt;/h4&gt;
-&lt;p&gt;Ad un primo sguardo sembrano scendere i codici rossi ed aumentare i codici gialli dopo 2 mesi dall&amp;rsquo;introduzione di &amp;ldquo;Bologna citta 30&amp;rdquo;&lt;/p&gt;
-&lt;img src=&#34;index_files/figure-html/Seriousness_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
-&lt;h4 id=&#34;number-of-incidents&#34;&gt;number of incidents&lt;/h4&gt;
-&lt;p&gt;The number of incidents seems to be approximately the same&lt;/p&gt;
-&lt;img src=&#34;index_files/figure-html/Barplot codes actual-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
-&lt;h4 id=&#34;number-of-incidents-in-percentage&#34;&gt;number of incidents in percentage&lt;/h4&gt;
-&lt;p&gt;The number of red codes decreases and it increases the number of green code&lt;/p&gt;
+      <description>&lt;h3 id=&#34;1-numero-totale-di-incidenti&#34;&gt;1. Numero Totale di Incidenti&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Il numero complessivo di incidenti &lt;strong&gt;non ha subito variazioni significative&lt;/strong&gt; tra il 2023 e il 2024.&lt;/li&gt;
+&lt;li&gt;Ciò suggerisce che l&amp;rsquo;impatto del progetto &amp;ldquo;Città 30&amp;rdquo; potrebbe essere più sulla &lt;strong&gt;gravità&lt;/strong&gt; che sulla &lt;strong&gt;frequenza&lt;/strong&gt; degli incidenti.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;img src=&#34;index_files/figure-html/Barplot codes percentage-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
-&lt;p&gt;Ad un primo sguardo gli incidenti sembrano essere nelle stesse aree&lt;/p&gt;</description>
+&lt;h3 id=&#34;2-codici-di-gravità-degli-incidenti&#34;&gt;2. Codici di Gravità degli Incidenti&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Riduzione dei codici rossi&lt;/strong&gt; (incidenti più gravi) rispetto al 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aumento dei codici gialli&lt;/strong&gt;, indicando una gravità media inferiore degli incidenti.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leggero aumento dei codici verdi&lt;/strong&gt;, ma meno significativo rispetto ai gialli.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;index_files/figure-html/Barplot codes actual-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;h3 id=&#34;3-andamento-mensile-degli-incidenti-in-città-30&#34;&gt;3. Andamento Mensile degli Incidenti in &amp;ldquo;Città 30&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;La percentuale di incidenti nelle aree a &lt;strong&gt;30 km/h è stabile o in leggero aumento&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Le zone &lt;strong&gt;fuori da &amp;ldquo;Città 30&amp;rdquo;&lt;/strong&gt; mantengono un numero di incidenti inferiore.&lt;/li&gt;
+&lt;li&gt;Questo suggerisce che il progetto non ha ancora ridotto il numero totale di incidenti, ma ha contribuito a diminuirne la gravità.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;index_files/figure-html/Seriousness_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;h3 id=&#34;4-distribuzione-spaziale-degli-incidenti&#34;&gt;4. Distribuzione Spaziale degli Incidenti&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Gli incidenti continuano a verificarsi nelle &lt;strong&gt;stesse aree&lt;/strong&gt; rispetto all&amp;rsquo;anno precedente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;0&amp;rdquo;&lt;/strong&gt; indica zone &lt;strong&gt;fuori da Città 30&lt;/strong&gt;, mentre &lt;strong&gt;&amp;ldquo;1&amp;rdquo;&lt;/strong&gt; indica zone &lt;strong&gt;all&amp;rsquo;interno di Città 30&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;proporzione degli incidenti è 80% - 20%&lt;/strong&gt; tra le zone che oggi fanno parte di &amp;ldquo;Città 30&amp;rdquo; e quelle esterne.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;index_files/figure-html/Before_After_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;iframe src=&#34;image_comparison.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Location</title>

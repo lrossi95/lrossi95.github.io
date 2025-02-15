@@ -1,5 +1,5 @@
 ---
-title: "Bologna citta 30"
+title: "Analisi preliminare dell'Impatto del Progetto 'Bologna Città 30' sugli Incidenti Stradali"
 author: "Luca Rossi"
 output:
   blogdown::html_page:
@@ -15,39 +15,42 @@ tags: ["policy", "evaluation"]
 
 
 
-#### Grafico sulla gravita degli incidenti
-
-Ad un primo sguardo sembrano scendere i codici rossi ed aumentare i codici gialli dopo 2 mesi dall'introduzione di "Bologna citta 30"
-
-<img src="index_files/figure-html/Seriousness_graph-1.png" width="960" style="display: block; margin: auto;" />
 
 
 
-
-#### number of incidents
-
-The number of incidents seems to be approximately the same
-
-<img src="index_files/figure-html/Barplot codes actual-1.png" width="960" style="display: block; margin: auto;" />
+### 1. Numero Totale di Incidenti
+- Il numero complessivo di incidenti **non ha subito variazioni significative** tra il 2023 e il 2024.
+- Ciò suggerisce che l'impatto del progetto "Città 30" potrebbe essere più sulla **gravità** che sulla **frequenza** degli incidenti.
 
 
-#### number of incidents in percentage
+<img src="images/Barplot codes percentage-1.png" width="960" style="display: block; margin: auto;" />
+
+### 2. Codici di Gravità degli Incidenti
+- **Riduzione dei codici rossi** (incidenti più gravi) rispetto al 2023.
+- **Aumento dei codici gialli**, indicando una gravità media inferiore degli incidenti.
+- **Leggero aumento dei codici verdi**, ma meno significativo rispetto ai gialli.
 
 
-The number of red codes decreases and it increases the number of green code
+<img src="images/Barplot codes actual-1.png" width="960" style="display: block; margin: auto;" />
+
+### 3. Andamento Mensile degli Incidenti in "Città 30"
+- La percentuale di incidenti nelle aree a **30 km/h è stabile o in leggero aumento**.
+- Le zone **fuori da "Città 30"** mantengono un numero di incidenti inferiore.
+- Questo suggerisce che il progetto non ha ancora ridotto il numero totale di incidenti, ma ha contribuito a diminuirne la gravità.
+
+<img src="images/Seriousness_graph-1.png" width="960" style="display: block; margin: auto;" />
 
 
-<img src="index_files/figure-html/Barplot codes percentage-1.png" width="960" style="display: block; margin: auto;" />
-
-Ad un primo sguardo gli incidenti sembrano essere nelle stesse aree
-  - 0 indica zone che non sono in citta 30 
-  - 1 indica zone che sono in citta 30
-
-La proporzione degli incidenti e 80 / 20 per le zone che oggi sono in citta 30C
-
-<img src="index_files/figure-html/Before_After_graph-1.png" width="960" style="display: block; margin: auto;" />
 
 
+### 4. Distribuzione Spaziale degli Incidenti
+- Gli incidenti continuano a verificarsi nelle **stesse aree** rispetto all'anno precedente.
+- **"0"** indica zone **fuori da Città 30**, mentre **"1"** indica zone **all'interno di Città 30**.
+- La **proporzione degli incidenti è 80% - 20%** tra le zone che oggi fanno parte di "Città 30" e quelle esterne.
+
+<img src="images/Before_After_graph-1.png" width="960" style="display: block; margin: auto;" />
+
+<iframe src="image_comparison.html" width="100%" height="600px" style="border:none;"></iframe>
 
 
 
