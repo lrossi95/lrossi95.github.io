@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Luca Rossi</title>
-    <link>http://localhost:53716/</link>
+    <link>http://localhost:54543/</link>
     <description>Recent content on Luca Rossi</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:53716/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54543/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Citta30</title>
-      <link>http://localhost:53716/data/paper4/</link>
+      <link>http://localhost:54543/data/paper4/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/data/paper4/</guid>
+      <guid>http://localhost:54543/data/paper4/</guid>
       <description>This article evaluates the Bologna città 30 policy.</description>
     </item>
     <item>
       <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
-      <link>http://localhost:53716/papers/paper3/</link>
+      <link>http://localhost:54543/papers/paper3/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/papers/paper3/</guid>
+      <guid>http://localhost:54543/papers/paper3/</guid>
       <description>This article investigates the role of images in influencing sales in second-hand marketplaces.</description>
     </item>
     <item>
       <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
-      <link>http://localhost:53716/papers/paper1/</link>
+      <link>http://localhost:54543/papers/paper1/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/papers/paper1/</guid>
+      <guid>http://localhost:54543/papers/paper1/</guid>
       <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
     </item>
     <item>
       <title>Data Analysis in Economics 1: Collection and Visualization</title>
-      <link>http://localhost:53716/courses/course1/</link>
+      <link>http://localhost:54543/courses/course1/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/courses/course1/</guid>
+      <guid>http://localhost:54543/courses/course1/</guid>
       <description>Graduate course on data collection and visualization</description>
     </item>
     <item>
       <title>Country Music: Strategic Incentives of Competing Voters</title>
-      <link>http://localhost:53716/papers/paper2/</link>
+      <link>http://localhost:54543/papers/paper2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/papers/paper2/</guid>
+      <guid>http://localhost:54543/papers/paper2/</guid>
       <description>This article analyzes the strategic robustness of positional voting systems using Eurovision Song Contest data. Our findings reveal strategic voting behaviors, particularly among jury members, influenced by information from the semifinal stage rather than the quality of the songs.</description>
     </item>
     <item>
       <title>Data analysis in economics 2: Applied Econometrics</title>
-      <link>http://localhost:53716/courses/course2/</link>
+      <link>http://localhost:54543/courses/course2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/courses/course2/</guid>
+      <guid>http://localhost:54543/courses/course2/</guid>
       <description>Graduate course on applied econometrics</description>
     </item>
     <item>
       <title>Platform Economics</title>
-      <link>http://localhost:53716/courses/course4/</link>
+      <link>http://localhost:54543/courses/course4/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/courses/course4/</guid>
+      <guid>http://localhost:54543/courses/course4/</guid>
       <description>Platofrms econometrics</description>
     </item>
     <item>
       <title>Dataset Title</title>
-      <link>http://localhost:53716/data/data1/</link>
+      <link>http://localhost:54543/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/data/data1/</guid>
+      <guid>http://localhost:54543/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:53716/backup/paper2/</link>
+      <link>http://localhost:54543/backup/paper2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/backup/paper2/</guid>
+      <guid>http://localhost:54543/backup/paper2/</guid>
       <description>&lt;!-- ---
 title: &#34;Paper Title&#34; 
 date: 2015-12-01
@@ -133,9 +133,9 @@ year = {Year}}
     </item>
     <item>
       <title></title>
-      <link>http://localhost:53716/data/image_comparison/</link>
+      <link>http://localhost:54543/data/image_comparison/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/data/image_comparison/</guid>
+      <guid>http://localhost:54543/data/image_comparison/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -143,9 +143,10 @@ year = {Year}}
   &lt;style&gt;
     .compare-slider {
         position: relative;
-        width: 960px;
-        height: 600px;
+        width: 1000px;
+        height: 1000px;
         overflow: hidden;
+        margin: 0 auto; /* This centers the slider horizontally */
     }
 
     .compare-slider .compare-image-before,
@@ -239,13 +240,13 @@ year = {Year}}
 &lt;/head&gt;
 &lt;body&gt;
   &lt;div class=&#34;compare-slider&#34;&gt;
-    &lt;div class=&#34;before-label&#34;&gt;&lt;span&gt;Before&lt;/span&gt;&lt;/div&gt;
-    &lt;div class=&#34;after-label&#34;&gt;&lt;span&gt;After&lt;/span&gt;&lt;/div&gt;
+    &lt;div class=&#34;before-label&#34;&gt;&lt;span&gt;2023&lt;/span&gt;&lt;/div&gt;
+    &lt;div class=&#34;after-label&#34;&gt;&lt;span&gt;2024&lt;/span&gt;&lt;/div&gt;
     &lt;div class=&#34;compare-image-after&#34;&gt;
-      &lt;img src=&#34;content/data/paper4/images/before.jpg&#34;&gt;
+      &lt;img src=&#34;../paper4/images/after.jpg&#34; alt=&#34;After Image&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;compare-image-before&#34;&gt;
-      &lt;img src=&#34;content/data/paper4/images/after.jpg&#34;&gt;
+      &lt;img src=&#34;../paper4/images/before.jpg&#34; alt=&#34;Before Image&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 
@@ -340,17 +341,121 @@ year = {Year}}
 &lt;/html&gt;</description>
     </item>
     <item>
-      <title>Location</title>
-      <link>http://localhost:53716/location/</link>
+      <title></title>
+      <link>http://localhost:54543/data/image_comparison_v2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/location/</guid>
+      <guid>http://localhost:54543/data/image_comparison_v2/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;meta charset=&#34;UTF-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+  &lt;title&gt;Image Comparison&lt;/title&gt;
+
+  &lt;style&gt;
+    @layer demo {
+      .compare {
+        display: grid;
+        
+        &gt; * {
+          grid-area: 1 / 1;
+        }
+        
+        &gt; section {
+          display: grid;
+          place-content: center;
+        }
+        
+        .before {
+          mask: linear-gradient(to right, #000 0, var(--pos, 50%), #0000 0);
+        }
+
+        .after {
+          mask: linear-gradient(to right, #0000 0, var(--pos, 50%), #000 0);
+        }
+
+        &gt; input[type=&#34;range&#34;] {
+          z-index: 1;
+          appearance: none;
+          background: transparent;
+          cursor: pointer;
+          -webkit-tap-highlight-color: transparent;
+
+          &amp;::-webkit-slider-thumb {
+            appearance: none;
+            inline-size: 4px;
+            block-size: 100dvh;
+            background-color: CanvasText;
+          } 
+
+          &amp;::-moz-range-thumb {
+            appearance: none;
+            inline-size: 4px;
+            block-size: 100dvh;
+            background-color: CanvasText;
+          }
+        }
+      }
+      
+      img {
+        max-block-size: 80dvh;
+        max-inline-size: 100%;
+      }
+    }
+
+    @layer demo.support {
+      * {
+        box-sizing: border-box;
+        margin: 0;
+      }
+
+      html {
+        block-size: 100%;
+        color-scheme: dark light;
+      }
+
+      body {
+        min-block-size: 100%;
+        font-family: system-ui, sans-serif;
+        display: grid;
+      }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Bologna citta 30 comparison tool&lt;/h1&gt;
+  &lt;/header&gt;
+
+  &lt;div class=&#34;compare&#34;&gt;
+    &lt;section class=&#34;before&#34;&gt;
+      &lt;img src=&#34;../paper4/images/before.jpg&#34; alt=&#34;&#34; /&gt;
+    &lt;/section&gt;
+    &lt;section class=&#34;after&#34;&gt;
+      &lt;img src=&#34;../paper4/images/after.jpg&#34; alt=&#34;&#34; /&gt;
+    &lt;/section&gt;
+    &lt;input type=&#34;range&#34; id=&#34;range&#34; step=&#34;0.1&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;script&gt;
+    range.oninput = () =&gt;
+    document.body.style.setProperty(&#39;--pos&#39;, range.value + &#39;%&#39;)
+  &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:54543/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54543/location/</guid>
       <description>Mailing and office addresses at Télécom Paris.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:53716/officehours/</link>
+      <link>http://localhost:54543/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53716/officehours/</guid>
+      <guid>http://localhost:54543/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
   </channel>
