@@ -235,13 +235,13 @@ year = {Year}}
       <guid>http://localhost:1313/data/paper4/</guid>
       <description>&lt;h4 id=&#34;grafico-sulla-gravita-degli-incidenti&#34;&gt;Grafico sulla gravita degli incidenti&lt;/h4&gt;
 &lt;p&gt;Ad un primo sguardo sembrano scendere i codici rossi ed aumentare i codici gialli dopo 2 mesi dall&amp;rsquo;introduzione di &amp;ldquo;Bologna citta 30&amp;rdquo;&lt;/p&gt;
-&lt;img src=&#34;images/Seriousness_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;index_files/figure-html/Seriousness_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;h4 id=&#34;number-of-incidents&#34;&gt;number of incidents&lt;/h4&gt;
 &lt;p&gt;The number of incidents seems to be approximately the same&lt;/p&gt;
-&lt;img src=&#34;images/Barplot codes actual-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;index_files/figure-html/Barplot codes actual-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;h4 id=&#34;number-of-incidents-in-percentage&#34;&gt;number of incidents in percentage&lt;/h4&gt;
 &lt;p&gt;The number of red codes decreases and it increases the number of green code&lt;/p&gt;
-&lt;img src=&#34;images/Barplot codes percentage-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;index_files/figure-html/Barplot codes percentage-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;p&gt;Ad un primo sguardo gli incidenti sembrano essere nelle stesse aree&lt;/p&gt;</description>
     </item>
     <item>
