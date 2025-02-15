@@ -50,8 +50,11 @@ tags: ["policy", "evaluation"]
 
 <img src="images/Before_After_graph-1.png" width="960" style="display: block; margin: auto;" />
 
-<iframe src="image_comparison.html" width="100%" height="600px" style="border:none;"></iframe>
 
-
-
-
+<div style="background-color:white; padding:10px;">
+  <iframe src="image_comparison.html"
+          width="100%"
+          height="500px"
+          style="border:none; background:white;">
+  </iframe>
+</div>

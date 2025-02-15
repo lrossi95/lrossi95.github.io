@@ -47,7 +47,13 @@
 &lt;li&gt;La &lt;strong&gt;proporzione degli incidenti è 80% - 20%&lt;/strong&gt; tra le zone che oggi fanno parte di &amp;ldquo;Città 30&amp;rdquo; e quelle esterne.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;img src=&#34;images/Before_After_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
-&lt;iframe src=&#34;image_comparison.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
+&lt;div style=&#34;background-color:white; padding:10px;&#34;&gt;
+  &lt;iframe src=&#34;image_comparison.html&#34;
+          width=&#34;100%&#34;
+          height=&#34;500px&#34;
+          style=&#34;border:none; background:white;&#34;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

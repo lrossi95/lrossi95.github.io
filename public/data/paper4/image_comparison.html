@@ -20,11 +20,11 @@
         }
         
         .before {
-          mask: linear-gradient(to right, #ffffff 0, var(--pos, 50%), #ffffff00 0);
+          mask: linear-gradient(to right, #000 0, var(--pos, 50%), #0000 0);
         }
 
         .after {
-          mask: linear-gradient(to right, #ffffff00 0, var(--pos, 50%), #ffffff 0);
+          mask: linear-gradient(to right, #0000 0, var(--pos, 50%), #000 0);
         }
 
         > input[type="range"] {
@@ -77,15 +77,15 @@
 </head>
 <body>
   <header>
-    <h1>Incidenti prima e dopo</h1>
+    <!-- <h1>Bologna città 30 comparison tool</h1> -->
   </header>
 
   <div class="compare">
     <section class="before">
-      <img src="../paper4/images/2023.jpg" alt="2023" />
+      <img src="../paper4/images/2023.svg" alt="2023" />
     </section>
     <section class="after">
-      <img src="../paper4/images/2024.jpg" alt="2024" />
+      <img src="../paper4/images/2024.svg" alt="2024" />
     </section>
     <input type="range" id="range" step="0.1">
   </div>
