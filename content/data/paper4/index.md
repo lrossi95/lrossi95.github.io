@@ -48,8 +48,7 @@ tags: ["policy", "evaluation"]
 - **"0"** indica zone **fuori da Città 30**, mentre **"1"** indica zone **all'interno di Città 30**.
 - La **proporzione degli incidenti è 80% - 20%** tra le zone che oggi fanno parte di "Città 30" e quelle esterne.
 
-<img src="images/Before_After_graph-1.png" width="960" style="display: block; margin: auto;" />
-
+#### Mappa slider con prima e dopo
 
 <div style="background-color:white; padding:10px;">
   <iframe src="image_comparison.html"

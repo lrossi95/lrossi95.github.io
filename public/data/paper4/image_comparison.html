@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Image Comparison</title>
 
-  <style>
+  <style> 
     @layer demo {
       .compare {
         display: grid;
@@ -20,11 +20,11 @@
         }
         
         .before {
-          mask: linear-gradient(to right, #000 0, var(--pos, 50%), #0000 0);
+          mask: linear-gradient(to right, grey 0, var(--pos, 50%), #0000 0);
         }
 
         .after {
-          mask: linear-gradient(to right, #0000 0, var(--pos, 50%), #000 0);
+          mask: linear-gradient(to right, #0000 0, var(--pos, 50%), grey 0);
         }
 
         > input[type="range"] {
@@ -51,7 +51,7 @@
       }
       
       img {
-        max-block-size: 80dvh;
+        max-block-size: 120dvh;
         max-inline-size: 100%;
       }
     }
@@ -68,6 +68,7 @@
       }
 
       body {
+        background-color: white;
         min-block-size: 100%;
         font-family: system-ui, sans-serif;
         display: grid;
@@ -79,6 +80,7 @@
   <header>
     <!-- <h1>Bologna città 30 comparison tool</h1> -->
   </header>
+
 
   <div class="compare">
     <section class="before">

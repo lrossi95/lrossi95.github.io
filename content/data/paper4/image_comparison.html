@@ -10,72 +10,73 @@
       background-color: white;
     }
     @layer demo {
-      .compare {
-        display: grid;
-        
-        > * {
-          grid-area: 1 / 1;
-        }
-        
-        > section {
-          display: grid;
-          place-content: center;
-        }
-        
-        .before {
-          mask: linear-gradient(to right, #000 0, var(--pos, 50%), #0000 0);
-        }
-
-        .after {
-          mask: linear-gradient(to right, #0000 0, var(--pos, 50%), #000 0);
-        }
-
-        > input[type="range"] {
-          z-index: 1;
-          appearance: none;
-          background: transparent;
-          cursor: pointer;
-          -webkit-tap-highlight-color: transparent;
-
-          &::-webkit-slider-thumb {
-            appearance: none;
-            inline-size: 4px;
-            block-size: 100dvh;
-            background-color: CanvasText;
-          } 
-
-          &::-moz-range-thumb {
-            appearance: none;
-            inline-size: 4px;
-            block-size: 100dvh;
-            background-color: CanvasText;
-          }
-        }
-      }
-      
-      img {
-        max-block-size: 80dvh;
-        max-inline-size: 100%;
-      }
+  .compare {
+    display: grid;
+    
+    > * {
+      grid-area: 1 / 1;
+    }
+    
+    > section {
+      display: grid;
+      place-content: center;
+    }
+    
+    .before {
+      mask: linear-gradient(to right, #000 0, var(--pos, 50%), #0000 0);
     }
 
-    @layer demo.support {
-      * {
-        box-sizing: border-box;
-        margin: 0;
-      }
+    .after {
+      mask: linear-gradient(to right, #0000 0, var(--pos, 50%), #000 0);
+    }
 
-      html {
-        block-size: 100%;
-        color-scheme: dark light;
-      }
+    > input[type="range"] {
+      z-index: 1;
+      appearance: none;
+      background: transparent;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
 
-      body {
+      &::-webkit-slider-thumb {
+        appearance: none;
+        inline-size: 4px;
+        block-size: 100dvh;
+        background-color: CanvasText;
+      } 
+
+      &::-moz-range-thumb {
+        appearance: none;
+        inline-size: 4px;
+        block-size: 100dvh;
+        background-color: CanvasText;
+      }
+    }
+  }
+  
+  img {
+    max-block-size: 100dvh;
+    max-inline-size: 100%;
+  }
+}
+
+@layer demo.support {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+  html {
+    block-size: 100%;
+    color-scheme: dark light;
+  }
+
+  body {
+        background-color: white;
         min-block-size: 100%;
         font-family: system-ui, sans-serif;
         display: grid;
-      }
-    }
+  }
+}
   </style>
 </head>
 <body>
@@ -85,14 +86,15 @@
 
   <div class="compare">
     <section class="before">
-      <img src="../paper4/images/before.svg" alt="2023" />
+      <img src="../paper4/images/2023.svg" alt="2023" />
     </section>
     <section class="after">
-      <img src="../paper4/images/after.svg" alt="2024" />
+      <img src="../paper4/images/2024.svg" alt="2024" />
     </section>
     <input type="range" id="range" step="0.1">
   </div>
 
+  
   <script>
     range.oninput = () =>
     document.body.style.setProperty('--pos', range.value + '%')
