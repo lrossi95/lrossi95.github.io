@@ -46,6 +46,7 @@
 &lt;li&gt;&lt;strong&gt;&amp;ldquo;0&amp;rdquo;&lt;/strong&gt; indica zone &lt;strong&gt;fuori da Città 30&lt;/strong&gt;, mentre &lt;strong&gt;&amp;ldquo;1&amp;rdquo;&lt;/strong&gt; indica zone &lt;strong&gt;all&amp;rsquo;interno di Città 30&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;La &lt;strong&gt;proporzione degli incidenti è 80% - 20%&lt;/strong&gt; tra le zone che oggi fanno parte di &amp;ldquo;Città 30&amp;rdquo; e quelle esterne.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;img src=&#34;images/Before_After_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
 &lt;h4 id=&#34;mappa-slider-con-prima-e-dopo&#34;&gt;Mappa slider con prima e dopo&lt;/h4&gt;
 &lt;div style=&#34;background-color:white; padding:10px;&#34;&gt;
   &lt;iframe src=&#34;image_comparison.html&#34;
