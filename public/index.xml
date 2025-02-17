@@ -6,21 +6,21 @@
     <description>Recent content on Luca Rossi</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Socio-Political Events Shape Consumption: Evidence from Music Streaming</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This study explores how Brett Kavanaugh’s Supreme Court confirmation influenced music consumption in the U.S., revealing a notable increase in streams for female artists on Spotify during the politically charged period of September–November 2018.</description>
+    </item>
     <item>
       <title>Picture Perfect? The Impact of Images in Second-Hand Marketplaces</title>
       <link>http://localhost:1313/papers/paper3/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/paper3/</guid>
       <description>This article investigates the role of images in influencing sales in second-hand marketplaces.</description>
-    </item>
-    <item>
-      <title>From Courtrooms to Charts: the Impact of Kavanaugh&#39;s Appointment on Music Consumption</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>This study examines the impact of Brett Kavanaugh&amp;#39;s Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify.</description>
     </item>
     <item>
       <title>Data Analysis in Economics 1: Collection and Visualization</title>

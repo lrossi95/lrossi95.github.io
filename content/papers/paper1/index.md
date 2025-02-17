@@ -1,10 +1,11 @@
 ---
-title: "From Courtrooms to Charts: the Impact of Kavanaugh's Appointment on Music Consumption" 
-date: 2024-12-15
+title: "How Socio-Political Events Shape Consumption: Evidence from Music Streaming" 
+date: 2025-02-17
 tags: ["Gender Equality", "Music Industry", "Social Movements", "Political Consumerism"]
-author: ["Luca Rossi","Michelangelo Rossi"]
-description: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
-summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appointment on U.S. music consumption, specifically exploring changes in streaming patterns on Spotify." 
+author: ["Luca Rossi"]
+Description: "This study explores how Brett Kavanaugh’s Supreme Court confirmation influenced music consumption in the U.S., revealing a notable increase in streams for female artists on Spotify during the politically charged period of September–November 2018."
+
+Summary: "Analyzing Spotify’s top 200 songs and using a difference-in-differences approach, this study uncovers a significant rise in streams for female artists during the Kavanaugh hearings and midterm elections, highlighting the intersection of politics and consumer behavior in digital music consumption."
 # cover:
 #     image: "paper1.jpg"
 #     alt: "Image caption"
@@ -17,24 +18,24 @@ summary: "This study examines the impact of Brett Kavanaugh's Supreme Court appo
 
 ---
 
-##### Download
+<!-- ##### Download
 
 + [Paper](https://lrossi95.github.io/papers/paper1/JMP.pdf)
-+ [Presentation](https://lrossi95.github.io/papers/paper1/kavanaugh_slides.pdf)
++ [Presentation](https://lrossi95.github.io/papers/paper1/kavanaugh_slides.pdf) -->
 
 ---
 
 ##### Abstract
 
-This study provides evidence of increased music streams for female performers in the United States, particularly for songs with sexist and empowering lyrics. Using streaming data from Spotify’s top 200 songs, a difference-in-differences analysis reveals a significant rise of at least 16\% in streams of songs by female artists, underscoring shifts in consumer behaviour linked to gender representation in music. In particular, we explore the impact of Brett Kavanaugh’s Supreme Court appointment, a socio-political event that intensified media focus on gender issues. The findings suggest that this heightened attention contributed to the observed changes in listening patterns post-appointment. The results are robust against potential confounders such as seasonal trends and Spotify’s promotional activities. This research contributes to understanding political consumerism, showing how significant socio-political events can influence consumer preferences in seemingly unrelated sectors like the music industry. It underscores the importance of adaptive strategies in digital marketplaces in response to external socio-political changes, and highlights the broader societal implications of major events on consumer behaviour and attitudes, particularly concerning gender imbalances.
+This study explores how political tensions influence consumer behaviour, using Brett Kavanaugh’s Supreme Court confirmation as a case study. By analysing Spotify’s top 200 songs and employing a difference-in-differences approach, I uncover a substantial 20% increase in streams for female artists during the period spanning the Kavanaugh hearings and the US midterm elections (September–November 2018). The findings indicate that intensified media coverage of gender issues during this politically charged time spurred shifts in listening patterns. Robust to seasonal variations and platform-specific factors, these results shed light on political consumerism, revealing how socio-political events can shape consumption in unexpected domains like the music industry. This research underscores the interplay between political events and consumption behaviour, with implications for addressing gender disparities and informing strategies in digital marketplaces.
 
 
 
 ---
 
-##### Figure 1: Event study
+<!-- ##### Figure 1: Event study
 
-![](images/main_event_study.pdf)
+![](images/main_event_study.pdf) -->
 
 ---
 

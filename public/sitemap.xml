@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/gender-equality/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/paper1/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/music-industry/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/political-consumerism/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-movements/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/paper3/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
@@ -22,24 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/sustainabilty/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/paper1/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gender-equality/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/music-industry/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/political-consumerism/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/social-movements/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
