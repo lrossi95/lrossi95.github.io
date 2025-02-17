@@ -12,13 +12,37 @@
       <link>http://localhost:1313/data/paper4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/data/paper4/</guid>
-      <description>&lt;h3 id=&#34;1-numero-totale-di-incidenti&#34;&gt;1. Numero Totale di Incidenti&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;analisi-della-piramide-delletà-2023-vs-2024&#34;&gt;Analisi della Piramide dell’Età (2023 vs. 2024)&lt;/h3&gt;
+&lt;p&gt;Il grafico sopra mostra la &lt;strong&gt;distribuzione della popolazione per fasce di età e genere&lt;/strong&gt; negli anni &lt;strong&gt;2023 e 2024&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MASCHI&lt;/strong&gt; sono rappresentati in &lt;strong&gt;blu&lt;/strong&gt; (lato sinistro).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FEMMINE&lt;/strong&gt; sono rappresentate in &lt;strong&gt;rosa&lt;/strong&gt; (lato destro).&lt;/li&gt;
+&lt;li&gt;L’&lt;strong&gt;asse X&lt;/strong&gt; indica la percentuale rispetto al totale della popolazione per ogni anno.&lt;/li&gt;
+&lt;li&gt;L’&lt;strong&gt;asse Y&lt;/strong&gt; rappresenta le fasce di età, raggruppate per decenni.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;osservazioni-principali&#34;&gt;&lt;strong&gt;Osservazioni principali:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;La &lt;strong&gt;fascia d’età più numerosa&lt;/strong&gt; è tra i &lt;strong&gt;20-29 e 30-39 anni&lt;/strong&gt;, indicando una popolazione giovane, rispettivamente studenti e lavoratori.&lt;/li&gt;
+&lt;li&gt;La fascia &lt;strong&gt;0-9 anni è relativamente più ridotta&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;La popolazione &lt;strong&gt;over 70&lt;/strong&gt; è meno numerosa, ma mostra un leggero aumento nel 2024.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La distribuzione tra uomini e donne è skewed verso gli uomini&lt;/strong&gt;, con prevalenza per uomini giovani.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;images/Age Pyramid-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;h3 id=&#34;1-numero-totale-di-incidenti&#34;&gt;1. Numero Totale di Incidenti&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Il numero complessivo di incidenti &lt;strong&gt;non ha subito variazioni significative&lt;/strong&gt; tra il 2023 e il 2024.&lt;/li&gt;
 &lt;li&gt;Ciò suggerisce che l&amp;rsquo;impatto del progetto &amp;ldquo;Città 30&amp;rdquo; potrebbe essere più sulla &lt;strong&gt;gravità&lt;/strong&gt; che sulla &lt;strong&gt;frequenza&lt;/strong&gt; degli incidenti.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;img src=&#34;images/Barplot codes percentage-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
-&lt;h3 id=&#34;2-codici-di-gravità-degli-incidenti&#34;&gt;2. Codici di Gravità degli Incidenti&lt;/h3&gt;
+&lt;h3 id=&#34;2-codici-di-gravità-degli-incidenti-usando-livello-0123-di-valutazione-sanitaria&#34;&gt;2 Codici di Gravità degli Incidenti, usando livello 0,1,2,3 di Valutazione sanitaria&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Riduzione dei codici rossi&lt;/strong&gt; (incidenti più gravi) rispetto al 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aumento dei codici gialli&lt;/strong&gt;, indicando una gravità media inferiore degli incidenti.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leggero aumento dei codici verdi&lt;/strong&gt;, ma meno significativo rispetto ai gialli.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;images/Graph of Valutazione Sanitaria Emergenza-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;img src=&#34;images/Graph of Valutazione Sanitaria Emergenza in percent-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
+&lt;h3 id=&#34;21-codici-di-gravità-degli-incidenti&#34;&gt;2.1 Codici di Gravità degli Incidenti&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Riduzione dei codici rossi&lt;/strong&gt; (incidenti più gravi) rispetto al 2023.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Aumento dei codici gialli&lt;/strong&gt;, indicando una gravità media inferiore degli incidenti.&lt;/li&gt;
@@ -39,14 +63,7 @@
 &lt;li&gt;La &lt;strong&gt;proporzione degli incidenti è 80% - 20%&lt;/strong&gt; tra le zone che oggi fanno parte di &amp;ldquo;Città 30&amp;rdquo; e quelle esterne.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;img src=&#34;images/Before_After_graph-1.png&#34; width=&#34;960&#34; style=&#34;display: block; margin: auto;&#34; /&gt;
-&lt;h4 id=&#34;mappa-slider-con-prima-e-dopo&#34;&gt;Mappa slider con prima e dopo&lt;/h4&gt;
-&lt;div style=&#34;background-color:white; padding:10px;&#34;&gt;
-  &lt;iframe src=&#34;image_comparison.html&#34;
-          width=&#34;100%&#34;
-          height=&#34;500px&#34;
-          style=&#34;border:none; background:white;&#34;&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;</description>
+&lt;iframe src=&#34;image_comparison.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
