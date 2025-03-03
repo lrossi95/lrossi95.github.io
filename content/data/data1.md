@@ -19,10 +19,29 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-In this page I extend a students project with web app visualization.
+## Extended Project Overview
+
+This interactive web app builds on a student's project by integrating enhanced spatial visualization features. It enables internal users to interact with the map in several key ways:
+
+1. Select Coordinates and View Isochrones  
+    - Users can click on the map to select specific coordinates.
+    - The app calculates isochrones showing travel times using different transportation modes, such as driving, transit, or walking. 
+
+2. Plot Amenities with Tooltips  
+    - Amenities are visualized on the map with clear markers.
+    - Hovering over a marker displays a tooltip with detailed information about the amenity.
+
+3. Municipality Dropdown Filter  
+    - A dropdown menu allows users to filter the map by municipality.
+    - This helps users focus on areas of interest for more targeted analysis.
+
+### TO DO
+
+- Select a point on the map, identify the nearest carreaux point, and display the corresponding isochrones.
+
+These additions will enhance the user experience by providing intuitive data exploration and improved spatial analysis capabilities.
 
 <div style="text-align: center;">
-  <p>Loading interactive map... please wait.</p>
   <iframe src="https://carreaux.streamlit.app/?embed=True"
           width="100%" height="800px" 
           style="border: none; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
