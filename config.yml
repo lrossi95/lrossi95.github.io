@@ -69,8 +69,8 @@ params:
         url: courses/
       # Uncomment as needed
       # - name: Mood
-      # - name: Data
-      #   url: data/
+      - name: Data Viz
+        url: data/
       # - name: Newsletter
       #   url: https://pmichaillat.substack.com
       # - name: Tags
