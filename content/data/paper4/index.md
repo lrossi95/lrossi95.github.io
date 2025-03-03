@@ -1,17 +1,14 @@
 ---
 title: "Analisi preliminare dell'Impatto del Progetto 'Bologna Città 30' sugli Incidenti Stradali"
 author: "Luca Rossi"
+description: "Exercise with accidents data."
+summary: Exercise with accidents data."
 output:
   blogdown::html_page:
     keep_md: true  # Ensure the Markdown file retains YAML metadata
 categories: ["Policy Evaluation"]
 tags: ["policy", "evaluation"]
 ---
-
-
-
-
-
 
 
 
