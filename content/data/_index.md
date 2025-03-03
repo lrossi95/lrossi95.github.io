@@ -1,4 +1,4 @@
 ---
-title: "Data"
-description: "Datasets on various topics."
+title: "Data Viz"
+description: "Datasets viz on various topics."
 ---

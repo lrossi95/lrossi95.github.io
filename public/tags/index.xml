@@ -4,10 +4,38 @@
     <title>Tags on Luca Rossi</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Luca Rossi</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carreaux</title>
+      <link>http://localhost:1313/tags/carreaux/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/carreaux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Isochrone</title>
+      <link>http://localhost:1313/tags/isochrone/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/isochrone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plotly</title>
+      <link>http://localhost:1313/tags/plotly/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plotly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizations</title>
+      <link>http://localhost:1313/tags/visualizations/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/visualizations/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gender Equality</title>
       <link>http://localhost:1313/tags/gender-equality/</link>
@@ -146,34 +174,6 @@
       <link>http://localhost:1313/tags/voting/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/voting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keyword 10</title>
-      <link>http://localhost:1313/tags/keyword-10/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-10/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keyword 5</title>
-      <link>http://localhost:1313/tags/keyword-5/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keyword 6</title>
-      <link>http://localhost:1313/tags/keyword-6/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keyword 7</title>
-      <link>http://localhost:1313/tags/keyword-7/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-7/</guid>
       <description></description>
     </item>
     <item>

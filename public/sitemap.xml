@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/data/data1/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/carreaux/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/data/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/isochrone/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plotly/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/visualizations/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/gender-equality/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/paper1/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/music-industry/</loc>
@@ -21,9 +42,6 @@
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/social-movements/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/paper3/</loc>
@@ -91,24 +109,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/voting/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/data/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/data/data1/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/keyword-10/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/keyword-5/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/keyword-6/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/keyword-7/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/backup/paper2/</loc>
   </url><url>
