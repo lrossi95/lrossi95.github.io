@@ -15,6 +15,18 @@ Summary: "Analyzing Spotify’s top 200 songs and using a difference-in-differen
 #     Text: "Journal Name"
 
 ---
+##### Conferences
+July 2024 - Silvaplana Political Economy Workshop, Pontresina, Switzerland
+
+March 2023 - Paris Young Economists Seminar on Digital Economics, Paris, France
+
+IBEO Workshop on Digital Economics, Alghero, Italy
+
+June 2023 - Warsaw Digitization Workshop, Warsaw, Poland
+
+June 2024 - AFREN - Association Francophone de Recherche en Economie Numérique, Rennes, France
+
+April 2025 - EPCS 2025 - European Public Choiche Society - Stockholm School of Economics, Riga, Latvia
 
 ---
 
