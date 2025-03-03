@@ -23,7 +23,7 @@ In this page I extend a students project with web app visualization.
 
 <div style="text-align: center;">
   <p>Loading interactive map... please wait.</p>
-  <iframe src="https://carreaux.streamlit.app"
+  <iframe src="https://carreaux.streamlit.app/?embed=True"
           width="100%" height="800px" 
           style="border: none; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   </iframe>
