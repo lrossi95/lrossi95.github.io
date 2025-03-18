@@ -1,5 +1,5 @@
 ---
-title: "Picture Perfect? The Impact of Images in Second-Hand Marketplaces" 
+title: "Selling Yourself, Selling Clothes: The Price of Exposure in the Digital Marketplaces" 
 date: 2024-12-16
 tags: ["Second hand", "Sustainabilty", "Platforms", "Pre-owned"]
 author: ["Luca Rossi"]
@@ -13,7 +13,7 @@ summary: "This article investigates the role of images in influencing sales in s
 
 ##### Download
 
-+ [Presentation](https://lrossi95.github.io/papers/paper3/presentation.pdf)
+<!-- + [Presentation](https://lrossi95.github.io/papers/paper3/presentation.pdf) -->
 <!-- + [Draft](https://lrossi95.github.io/papers/paper3/main.pdf) -->
 
 ### Introduction
