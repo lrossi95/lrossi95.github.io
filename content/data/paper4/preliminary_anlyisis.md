@@ -9,19 +9,15 @@ tags: ["policy", "evaluation"]
 ---
 
 
-
-
-
-
 # Age pyramids 
 
-<img src="../../lrossi95.github.io/static/images/Age Pyramid-1.png" width="960" style="display: block; margin: auto;" />
+<img src="../../../static/images/Age Pyramid-1.png" width="960" style="display: block; margin: auto;" />
 
 # Stacked Bar Charts
 
-<img src="../../lrossi95.github.io/static/images/Stacked bar counts-1.png" width="960" style="display: block; margin: auto;" />
+<img src="../../../static/images/Stacked bar counts-1.png" width="960" style="display: block; margin: auto;" />
 
-<img src="../../lrossi95.github.io/static/images/Stacked bar percent-1.png" width="960" style="display: block; margin: auto;" />
+<img src="../../../static/images/Stacked bar percent-1.png" width="960" style="display: block; margin: auto;" />
 
 
 
@@ -29,11 +25,11 @@ tags: ["policy", "evaluation"]
 # Serie Storica
 
 
-<img src="../../lrossi95.github.io/static/images/Grafico proporzione incidenti -1.png" width="960" style="display: block; margin: auto;" />
+<img src="../../../static/images/Grafico proporzione incidenti -1.png" width="960" style="display: block; margin: auto;" />
 
 
 
-<img src="../../lrossi95.github.io/static/images/Grafico incidenti-1.png" width="960" style="display: block; margin: auto;" />
+<img src="../../../static/images/Grafico incidenti-1.png" width="960" style="display: block; margin: auto;" />
 
 # TODO: Treated - Untreated
 <!-- #### Grafico sulla gravita degli incidenti -->
