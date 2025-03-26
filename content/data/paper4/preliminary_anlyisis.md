@@ -1,6 +1,9 @@
 ---
-title: "Analisi preliminare dell'Impatto del Progetto 'Bologna Città 30' sugli Incidenti Stradali nel comune di Bologna"
+title: "Bologna Città 30"
 author: "Luca Rossi"
+Description: "Analisi Preliminare Incidenti nel comune di Bologna"
+
+Summary: "Analisi Preliminare Incidenti nel comune di Bologna"
 output: 
   blogdown::html_page:
     keep_md: true  # Ensure the Markdown file retains YAML metadata
@@ -9,29 +12,45 @@ tags: ["policy", "evaluation"]
 ---
 
 
-# Age pyramids 
-
-<img src="../../../static/images/Age Pyramid-1.png" width="960" style="display: block; margin: auto;" />
-
-# Stacked Bar Charts
-
-<img src="../../../static/images/Stacked bar counts-1.png" width="960" style="display: block; margin: auto;" />
-
-<img src="../../../static/images/Stacked bar percent-1.png" width="960" style="display: block; margin: auto;" />
 
 
 
 
-# Serie Storica
+
+``` r
+# Load custom font
+font_add_google("Lato")
+showtext_auto()
+```
+
+#### Age pyramids 
+
+<img src="images/Age Pyramid-1.png" width="960" style="display: block; margin: auto;" />
+
+#### Stacked Bar Charts
+##### Valori Effettivi
+
+<img src="images/Stacked bar counts-1.png" width="960" style="display: block; margin: auto;" />
+
+##### In percentuale
+
+<img src="images/Stacked bar percent-1.png" width="960" style="display: block; margin: auto;" />
 
 
-<img src="../../../static/images/Grafico proporzione incidenti -1.png" width="960" style="display: block; margin: auto;" />
 
 
+#### Serie Storica
+# Valori Effettivi
 
-<img src="../../../static/images/Grafico incidenti-1.png" width="960" style="display: block; margin: auto;" />
+<img src="images/Grafico incidenti-1.png" width="960" style="display: block; margin: auto;" />
+
+##### Percentuale
+<img src="images/Grafico proporzione incidenti -1.png" width="960" style="display: block; margin: auto;" />
+
+<iframe src="image_comparison.html" width="100%" height="600px" style="border:none;"></iframe>
 
 # TODO: Treated - Untreated
+
 <!-- #### Grafico sulla gravita degli incidenti -->
 
 <!-- Ad un primo sguardo sembrano scendere i codici rossi ed aumentare i codici gialli dopo 2 mesi dall'introduzione di "Bologna citta 30" -->
