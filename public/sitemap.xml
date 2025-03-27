@@ -44,9 +44,6 @@
     <loc>http://localhost:1313/tags/social-movements/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/paper3/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/platforms/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,6 +51,9 @@
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/second-hand/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/paper3/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sustainabilty/</loc>
@@ -112,11 +112,11 @@
   </url><url>
     <loc>http://localhost:1313/backup/paper2/</loc>
   </url><url>
-    <loc>http://localhost:1313/data/paper4/</loc>
-  </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url><url>
     <loc>http://localhost:1313/backup/</loc>
+  </url><url>
+    <loc>http://localhost:1313/data/paper4/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/evaluation/</loc>
   </url><url>
