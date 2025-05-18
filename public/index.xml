@@ -4,10 +4,17 @@
     <title>Luca Rossi</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Luca Rossi</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economic Shocks and Populist Narratives: Evidence from Plant Closures in France</title>
+      <link>http://localhost:1313/papers/paper5/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper5/</guid>
+      <description>This project investigates the causal effects of localized economic shocks on the rise of populist narratives and electoral outcomes in France.</description>
+    </item>
     <item>
       <title>Carreaux</title>
       <link>http://localhost:1313/data/data1/</link>

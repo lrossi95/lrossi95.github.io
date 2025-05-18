@@ -4,10 +4,45 @@
     <title>Tags on Luca Rossi</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Luca Rossi</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elections</title>
+      <link>http://localhost:1313/tags/elections/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/elections/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>France</title>
+      <link>http://localhost:1313/tags/france/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/france/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Labor Market</title>
+      <link>http://localhost:1313/tags/labor-market/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/labor-market/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural Experiments</title>
+      <link>http://localhost:1313/tags/natural-experiments/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/natural-experiments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Populism</title>
+      <link>http://localhost:1313/tags/populism/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/populism/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Carreaux</title>
       <link>http://localhost:1313/tags/carreaux/</link>
