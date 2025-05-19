@@ -1,6 +1,6 @@
 ---
 title: "Economic Shocks and Populist Narratives: Evidence from Firms and Plant crises in France"
-date: 2025-05-18
+date: 2025-04-18
 tags: ["Populism", "Natural Experiments", "Elections", "Labor Market", "France"]
 author: ["Marco Magnani", "Ettore Gallo", "Luca Rossi"]
 

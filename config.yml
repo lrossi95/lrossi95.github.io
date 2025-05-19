@@ -31,7 +31,7 @@ menu:
     #   weight: 4
 
 params:
-  description: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, spending a LOT of time mining data and running regression analysis (coding a lot)."
+  description: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, spending a lot of time mining data, and with a strong enthusiasm for coding."
   author: Luca Rossi
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: "January 2006"
@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: Luca Rossi
-    subtitle: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, encompassing data mining, analytical inference, and a strong enthusiasm for coding."
+    subtitle: "I am a Ph.D. student in economics at the University of Ferrara and Parma, currently visiting at Télécom Paris. My research primarily focuses on digital economics, spending a lot of time mining data, and with a strong enthusiasm for coding."
     imageUrl: "picture.jpg"
     imageWidth: 160
     imageHeight: 160
