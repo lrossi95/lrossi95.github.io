@@ -3,7 +3,7 @@ title: "Economic Shocks and Populist Narratives: Evidence from Firms and Plant c
 date: 2025-04-18
 tags: ["Populism", "Natural Experiments", "Elections", "Labor Market", "France"]
 author: ["Marco Magnani", "Ettore Gallo", "Luca Rossi"]
-
+category: "early"
 description: "This project investigates the causal effects of localized economic shocks on the rise of populist narratives and electoral outcomes in France."
 summary: "This project investigates the causal effects of localized economic shocks on the rise of populist narratives and electoral outcomes in France. Using detailed French administrative data on firms and employees, the study exploits firms / plant crises as natural experiments to estimate how labor market disruptions impact political behavior and discourse. It contributes to the broader literature on economic insecurity, political polarization, and democratic resilience, and builds on the research agenda of the VALPOP project."
 ---
@@ -25,5 +25,3 @@ The research aims to contribute to the understanding of:
 3. The extent to which social protection mechanisms (e.g., unemployment benefits, retraining programs) mediate the impact on political behaviour.
 
 By focusing on France, a country with both detailed administrative data and a history of political volatility, this study provides robust empirical evidence on the economic underpinnings of populism in advanced democracies.
-
-This work aligns with the goals of the VALPOP project by empirically assessing the drivers of populism and informing policies aimed at democratic resilience in the face of economic adversity.

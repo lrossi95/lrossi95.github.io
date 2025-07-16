@@ -2,6 +2,7 @@
 title: "How Socio-Political Events Shape Consumption: Evidence from Music Streaming" 
 date: 2025-02-17
 tags: ["Gender Equality", "Music Industry", "Social Movements", "Political Consumerism"]
+category: "working"
 author: ["Luca Rossi"]
 Description: "This study explores how Brett Kavanaugh’s Supreme Court confirmation influenced music consumption in the U.S., revealing a notable increase in streams for female artists on Spotify during the politically charged period of September–November 2018."
 

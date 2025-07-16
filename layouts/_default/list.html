@@ -47,18 +47,81 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
 
-{{- $class := "post-entry" }}
+{{ $working := where $paginator.Pages "Params.category" "working" }}
+{{ $early := where $paginator.Pages "Params.category" "early" }}
+{{ $hasWorking := gt (len $working) 0 }}
+{{ $hasEarly := gt (len $early) 0 }}
+<!-- HERE -->
+{{ if or $hasWorking $hasEarly }}
+<h2>Working Papers</h2>
+<br>
+{{ range $working }}
+  {{ $class := "post-entry" }}
+  <article class="{{ $class }}">
+    {{ $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+    {{ partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    <header class="entry-header">
+      <h2>
+        {{ .Title }}
+        {{ if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{ end }}
+      </h2>
+    </header>
+    {{ if not (.Param "hideSummary") }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...</p>{{ end }}
+    </div>
+    {{ end }}
+    {{ if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{ partial "post_meta.html" . }}
+    </footer>
+    {{ end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+{{ end }}
 
-{{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
-{{- $class = "first-entry" }}
-{{- else if $term }}
-{{- $class = "post-entry tag-entry" }}
-{{- end }}
+<h2>Early Stage Projects</h2>
+<br>
+{{ range $early }}
+  {{ $class := "post-entry" }}
+  <article class="{{ $class }}">
+    {{ $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+    {{ partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    <header class="entry-header">
+      <h2>
+        {{ .Title }}
+        {{ if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{ end }}
+      </h2>
+    </header>
+    {{ if not (.Param "hideSummary") }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...</p>{{ end }}
+    </div>
+    {{ end }}
+    {{ if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{ partial "post_meta.html" . }}
+    </footer>
+    {{ end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+{{ end }}
 
-<article class="{{ $class }}">
+{{ else }}
+  {{ $class := "post-entry" }}
+  {{- range $index, $page := $paginator.Pages }} 
+
+  {{- $class := "post-entry" }}
+
+  {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
+  {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
+  {{- $class = "first-entry" }}
+  {{- else if $term }}
+  {{- $class = "post-entry tag-entry" }}
+  {{- end }}
+
+  <article class="{{ $class }}">
   {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
   <header class="entry-header">
@@ -80,6 +143,13 @@
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
+  <!-- <p>No articles found in these categories.</p> -->
+{{ end }}
+
+
+<!-- HERE -->
+
+
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">

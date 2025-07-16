@@ -3,7 +3,7 @@ title: "Selling Yourself, Selling Clothes: The Price of Exposure in the Digital 
 date: 2024-12-16
 tags: ["Second hand", "Sustainabilty", "Platforms", "Pre-owned"]
 author: ["Luca Rossi"]
-
+category: "working"
 description: "This article investigates the role of images in influencing sales in second-hand marketplaces."
 summary: "This article investigates the role of images in influencing sales in second-hand marketplaces."  
 # summary: "This article investigates the role of images in influencing sales outcomes in second-hand marketplaces. By examining pricing strategies and consumer behavior on platforms where users act as micro-entrepreneurs, it evaluates whether sharing personal images enhances sales performance. The analysis also considers the privacy trade-offs of image sharing and explores the factors motivating users to share specific types of images." 
