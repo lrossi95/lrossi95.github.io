@@ -52,6 +52,7 @@
 {{ $early := where $paginator.Pages "Params.category" "early" }}
 {{ $hasWorking := gt (len $working) 0 }}
 {{ $hasEarly := gt (len $early) 0 }}
+
 <!-- HERE -->
 {{ if or $hasWorking $hasEarly }}
 <h2>Working Papers</h2>

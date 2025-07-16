@@ -21,6 +21,8 @@ menu:
       weight: 1
     - name: Courses
       url: courses/
+    - name: Data Viz
+      url: data/
       # Uncomment if needed
       # weight: 2
     # - name: Data
